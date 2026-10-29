@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-28T21:21:11Z",
+  "generated_at": "2026-10-29T01:15:17Z",
   "videos": [
+    {
+      "id": "k31q6Pfwr5Y",
+      "title": "Full Version 1 l Bốn Năm Sau Dắt Con Trở Về, Tổng Tài Nhất Quyết Không Để Tôi Đi l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-10-29T01:00:00Z",
+      "duration_seconds": 8096,
+      "thumbnail_url": "https://i.ytimg.com/vi/k31q6Pfwr5Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "AshoXacIGpY",
+      "title": "Mẹ Chồng Khoe Khoang Khắp Xóm Hại Con Dâu Mất Mạng, Nào Ngờ Cô Trọng Sinh Khiến Cả Nhà Trả Giá Đắt",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-29T00:00:12Z",
+      "duration_seconds": 4633,
+      "thumbnail_url": "https://i.ytimg.com/vi/AshoXacIGpY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "S22RB9Y6iiw",
+      "title": "Cô Ruột Chê Cháu Gái Lấy 20 Tệ Mỗi Ngày Là Tham, Nào Ngờ Người Đón Miễn Phí Chỉ Giúp Được Năm Ngày",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-28T22:00:25Z",
+      "duration_seconds": 5229,
+      "thumbnail_url": "https://i.ytimg.com/vi/S22RB9Y6iiw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "HJc0_XnOyQM",
       "title": "Đi Giao Hoa Đến Nhà Tân Hôn, Cô Bị Tiểu Tam Đuổi Đi, Nào Ngờ Sổ Đỏ Đứng Tên Chính Mình Từ Đầu",

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T14:40:37Z",
+  "generated_at": "2026-10-29T19:53:50Z",
   "last_full_refresh_at": "2026-10-29T14:40:37Z",
   "channels": {
     "music": {
@@ -118,6 +118,62 @@
     }
   },
   "videos": [
+    {
+      "id": "dfpFBd5P7zg",
+      "title": "Full Version 1 l Rời Xa Hai Trúc Mã, Tôi Trở Thành Ngoại Lệ Của Các Nam Thần l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-10-29T17:28:37Z",
+      "duration_seconds": 9067,
+      "thumbnail_url": "https://i.ytimg.com/vi/dfpFBd5P7zg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "tImRmrwXfl4",
+      "title": "Phần 19 | Thái Huyền Thai Châu Truyện",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-10-29T17:21:20Z",
+      "duration_seconds": 9447,
+      "thumbnail_url": "https://i.ytimg.com/vi/tImRmrwXfl4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "3IkjBtYA568",
+      "title": "Bắt Đầu Lại Trên Con Ngõ Đen",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-29T15:07:57Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/3IkjBtYA568/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "uNk9PtXN08k",
+      "title": "Bắt Đầu Lại Trên Con Ngõ Đen — Bolero Parody Ngọt Ngào U Tối (Original)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-29T15:07:44Z",
+      "duration_seconds": 262,
+      "thumbnail_url": "https://i.ytimg.com/vi/uNk9PtXN08k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
     {
       "id": "c5gbvEaG9JA",
       "title": "Trọng Sinh Về Năm 1987, Cô Nhường Bạn Trai Cho Em Gái, Nào Ngờ Lại Cưới Trúng Thiếu Gia Hào Môn!!",

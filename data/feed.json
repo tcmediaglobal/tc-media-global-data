@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T11:13:05Z",
-  "last_full_refresh_at": "2026-10-29T14:40:37Z",
+  "generated_at": "2026-10-30T17:14:51Z",
+  "last_full_refresh_at": "2026-10-30T17:14:51Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -118,6 +118,245 @@
     }
   },
   "videos": [
+    {
+      "id": "ypmQp_HnBFI",
+      "title": "창가의 남은 봄",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-30T15:43:37Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/ypmQp_HnBFI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "3GDqslZkGDI",
+      "title": "창가의 남은 봄 — 이별 뒤 조용한 위로와 다시 걷는 시작 (Original Pop Ballad)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-30T15:43:26Z",
+      "duration_seconds": 241,
+      "thumbnail_url": "https://i.ytimg.com/vi/3GDqslZkGDI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "HCtgEznTgmY",
+      "title": "แสงเช้าที่ฉันเลือก",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-30T15:41:48Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/HCtgEznTgmY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "n-sb0RHelkg",
+      "title": "แสงเช้าที่ฉันเลือก — เพลงป๊อบบัลลาดให้กำลังใจ (Official Lyric Video)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-30T15:41:29Z",
+      "duration_seconds": 241,
+      "thumbnail_url": "https://i.ytimg.com/vi/n-sb0RHelkg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "vKSJEozsgzc",
+      "title": "Neon Başlangıç — 9 Parçalık Enerjik Türkçe EDM Albümü",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-30T15:39:36Z",
+      "duration_seconds": 1596,
+      "thumbnail_url": "https://i.ytimg.com/vi/vKSJEozsgzc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music",
+        "edm"
+      ]
+    },
+    {
+      "id": "RYLQ6BI2FAg",
+      "title": "Tiền Lẻ, Nụ Cười",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-30T15:17:44Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/RYLQ6BI2FAg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "m4NYu7bHCO0",
+      "title": "Tiền Lẻ, Nụ Cười — Dân Ca Quê Hương Vui Vẻ | Tìm Niềm Vui Trên Ví Hết Tiền",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-30T15:14:09Z",
+      "duration_seconds": 240,
+      "thumbnail_url": "https://i.ytimg.com/vi/m4NYu7bHCO0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "CarcZ9KwD5c",
+      "title": "Phần 10  - Tập 18 | Tạp Dịch Ngụy Linh Căn, Nhưng Bùa Chú Của Ta Mạnh Gấp 10 Lần",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-30T14:55:12Z",
+      "duration_seconds": 3057,
+      "thumbnail_url": "https://i.ytimg.com/vi/CarcZ9KwD5c/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9ZoapTeJ5B0",
+      "title": "Phần 1(P1): Trỗi Dậy! Phàm Nhân Tu Tiên: Tạp Dịch Ngoại Môn",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-30T13:25:53Z",
+      "duration_seconds": 24882,
+      "thumbnail_url": "https://i.ytimg.com/vi/9ZoapTeJ5B0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "vVBJuidUcug",
+      "title": "PHẦN 2 | Tạp Dịch Ngũ Linh Căn - Ta Có Bình Thần Cường Hóa - Âm Thầm Trở Thành Đại Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-30T13:03:24Z",
+      "duration_seconds": 5121,
+      "thumbnail_url": "https://i.ytimg.com/vi/vVBJuidUcug/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "IMxFzumvNB4",
+      "title": "Chồng Ngoại Tình Với Mẹ Thông Gia, Toan Cướp Tiệm May Của Vợ, Nào Ngờ Bà Vạch Mặt Ngay Đám Cưới Con",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-30T13:00:34Z",
+      "duration_seconds": 4459,
+      "thumbnail_url": "https://i.ytimg.com/vi/IMxFzumvNB4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Q-XDJ-HsIzs",
+      "title": "[FULL 8H] KẺ NẰM NGỮA MẠNH NHẤT TAM GIỚI | LY VIETSUB 130",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-10-30T12:32:46Z",
+      "duration_seconds": 31906,
+      "thumbnail_url": "https://i.ytimg.com/vi/Q-XDJ-HsIzs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "oCTmy3kXJhg",
+      "title": "Pria Masuk Dunia Buku, Jinakkan Monster Rank S, Masuk Gua Naga Rebut Obat Dewa Jadi Dewa Perang",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-10-30T12:30:29Z",
+      "duration_seconds": 5069,
+      "thumbnail_url": "https://i.ytimg.com/vi/oCTmy3kXJhg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "jfFHxoyxFw0",
+      "title": "3,5 GIỜ | Ngũ Hoàng Tử Phế Vật - Nào Ngờ Đã Vô Địch Từ Lâu - Vươn Lên Thay Đổi Triều Đình",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-30T12:06:40Z",
+      "duration_seconds": 11600,
+      "thumbnail_url": "https://i.ytimg.com/vi/jfFHxoyxFw0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "jjh_ZkkcXn8",
+      "title": "Vị Hôn Phu Đưa Mẹ Vào Chiếm Phòng Làm Việc Của Cô, Nào Ngờ Cô Hủy Cưới Và Thuê Ngay Bạn Trai Giả",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-30T12:00:33Z",
+      "duration_seconds": 6333,
+      "thumbnail_url": "https://i.ytimg.com/vi/jjh_ZkkcXn8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "CkJLlJgRhAw",
+      "title": "Pengantin Pria Selingkuh Dengan Adik Tiri, Ia Putar Video Bongkar Aib Lalu Menikahi Paman Miliarder",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-10-30T11:30:34Z",
+      "duration_seconds": 3214,
+      "thumbnail_url": "https://i.ytimg.com/vi/CkJLlJgRhAw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "umxQwibf0oM",
+      "title": "Full Version l Anh Chồng Ngốc Tôi Nhặt Về, Hóa Ra Là Thái Tử Gia Khiến Hào Môn Khiếp Sợ l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-10-30T11:13:56Z",
+      "duration_seconds": 5015,
+      "thumbnail_url": "https://i.ytimg.com/vi/umxQwibf0oM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "8nQkON75eiw",
       "title": "3,5 GIỜ | Tạp Dịch Ngụy Linh Căn Cứ Ngỡ Không Thể Tu Tiên - Hỗn Độ Thần Tháp - Tu Thành Đại Đế",
@@ -3116,34 +3355,6 @@
       ]
     },
     {
-      "id": "9c6s9pKHQcg",
-      "title": "Cả Nhà Tranh Di Chúc Khi Cha Hấp Hối, Nào Ngờ Ông Đã Quyên Góp Hết Gia Sản Khiến Ai Cũng Sốc Nặng",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-10-27T10:00:06Z",
-      "duration_seconds": 6658,
-      "thumbnail_url": "https://i.ytimg.com/vi/9c6s9pKHQcg/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "Jju09AK7qbc",
-      "title": "Phần 4: Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-10-27T09:51:06Z",
-      "duration_seconds": 18797,
-      "thumbnail_url": "https://i.ytimg.com/vi/Jju09AK7qbc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "5n5nXg9rBb4",
       "title": "3,5 GIỜ | Thái Tử Phế Truất - Hệ Thống Mỗi Ngày 1 Điểm Cường Hóa - Ta Vô Địch Lúc Nào Không Hay",
       "channel": "movies",
@@ -5242,20 +5453,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "A6d_oDVUpm0",
-      "title": "Bạn Gái Tổng Tài Đuổi Cha Mẹ Anh Vì Ăn Mặc Nghèo, Nào Ngờ Ông Là Chủ Tịch Khiến Cô Trả Giá Đắt",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-10-25T03:00:12Z",
-      "duration_seconds": 7188,
-      "thumbnail_url": "https://i.ytimg.com/vi/A6d_oDVUpm0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -35300,34 +35497,6 @@
       ]
     },
     {
-      "id": "GP-XNUxvkxI",
-      "title": "Tập 146-150: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-08-31T20:50:45Z",
-      "duration_seconds": 1163,
-      "thumbnail_url": "https://i.ytimg.com/vi/GP-XNUxvkxI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "y9wIcxjXPX4",
-      "title": "Tập 141-145: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-08-31T20:38:56Z",
-      "duration_seconds": 1266,
-      "thumbnail_url": "https://i.ytimg.com/vi/y9wIcxjXPX4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "7iU9iGGrih8",
       "title": "Full Version 1 | Sau Đêm Định Mệnh, Tổng Tài Điên Cuồng Ép Tôi Yêu Anh | Sora Dub",
       "channel": "drama2",
@@ -38840,20 +39009,6 @@
       ]
     },
     {
-      "id": "vDcScVTiyx0",
-      "title": "Tập 136-140: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-08-23T02:47:25Z",
-      "duration_seconds": 1195,
-      "thumbnail_url": "https://i.ytimg.com/vi/vDcScVTiyx0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "Vnd0xeu4Lo0",
       "title": "Sự Phụ Đã Bất Bại - Các Đệ Tử Không Cần Sợ Hãi. Hệ Thống Đại Đế Sư Tôn Thưởng Vô Hạn Quà",
       "channel": "movies",
@@ -40147,34 +40302,6 @@
       "published_at": "2026-08-20T01:16:24Z",
       "duration_seconds": 8858,
       "thumbnail_url": "https://i.ytimg.com/vi/ks3RyvxhY1c/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "H9cKDH-iM0s",
-      "title": "Tập 131-135: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-08-19T22:00:06Z",
-      "duration_seconds": 1307,
-      "thumbnail_url": "https://i.ytimg.com/vi/H9cKDH-iM0s/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "-PAh0xtgLoc",
-      "title": "Tập 126-130: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-08-19T16:23:59Z",
-      "duration_seconds": 1234,
-      "thumbnail_url": "https://i.ytimg.com/vi/-PAh0xtgLoc/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -42826,20 +42953,6 @@
       ]
     },
     {
-      "id": "3LFyNOEPc6Y",
-      "title": "Tập 121-125: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-08-12T14:12:16Z",
-      "duration_seconds": 1221,
-      "thumbnail_url": "https://i.ytimg.com/vi/3LFyNOEPc6Y/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "4FvfS5QOmFA",
       "title": "Kakek Miliarder Diselamatkan Bocah Tabib Sakti; Lihat Wajah, Ternyata Cucu Sulungnya yang Hilang",
       "channel": "drama5",
@@ -44434,20 +44547,6 @@
       ]
     },
     {
-      "id": "U1Dn9ogTKdY",
-      "title": "Tập 116-120: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-08-08T06:39:53Z",
-      "duration_seconds": 1235,
-      "thumbnail_url": "https://i.ytimg.com/vi/U1Dn9ogTKdY/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "7_f2M6jFxgk",
       "title": "THẾ GIA ĐỈNH NÓC TAM GIỚI | HÀ NHÂN XUYÊN KHÔNG | LY VIETSUB 981",
       "channel": "movies4",
@@ -45729,20 +45828,6 @@
       "published_at": "2026-08-04T07:59:31Z",
       "duration_seconds": 1737,
       "thumbnail_url": "https://i.ytimg.com/vi/VQBhRGL4vDw/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "ymvaG7eJoO4",
-      "title": "Tập 111-115: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-08-04T07:45:32Z",
-      "duration_seconds": 1156,
-      "thumbnail_url": "https://i.ytimg.com/vi/ymvaG7eJoO4/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -47122,20 +47207,6 @@
       ]
     },
     {
-      "id": "yizk3voqSMc",
-      "title": "Tập 106-110: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-07-30T19:28:56Z",
-      "duration_seconds": 1145,
-      "thumbnail_url": "https://i.ytimg.com/vi/yizk3voqSMc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "GE6rD0TTmDI",
       "title": "Seisi Perusahaan Ejek Pria Desa Pembual, 3 Menit Kemudian Hujan Berlian Selamatkan Grup",
       "channel": "drama5",
@@ -48095,20 +48166,6 @@
       "published_at": "2026-07-27T00:23:12Z",
       "duration_seconds": 2984,
       "thumbnail_url": "https://i.ytimg.com/vi/IU-SxO6xT14/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "QUx0PINjoao",
-      "title": "Tập 101-105: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-07-26T13:45:25Z",
-      "duration_seconds": 1180,
-      "thumbnail_url": "https://i.ytimg.com/vi/QUx0PINjoao/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -49572,20 +49629,6 @@
       ]
     },
     {
-      "id": "C-dBdjFUImY",
-      "title": "Tập 96-100: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-07-21T18:08:08Z",
-      "duration_seconds": 983,
-      "thumbnail_url": "https://i.ytimg.com/vi/C-dBdjFUImY/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "xoL9ditELFk",
       "title": "CEO Wanita Pulang Kampung Mencari Suami Yang Hilang Lima Tahun, Ternyata Diusir Keluarganya Sendiri",
       "channel": "drama6",
@@ -50377,20 +50420,6 @@
       "published_at": "2026-07-18T01:00:16Z",
       "duration_seconds": 6721,
       "thumbnail_url": "https://i.ytimg.com/vi/ZW0BjIzrKGI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "_XI1UTcEUDE",
-      "title": "Tập 1-95: Ông Lão 100 Tuổi Tu Tiên - 100 Tuổi Thức Tỉnh Thiên Linh Căn",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-07-17T14:20:34Z",
-      "duration_seconds": 17063,
-      "thumbnail_url": "https://i.ytimg.com/vi/_XI1UTcEUDE/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [

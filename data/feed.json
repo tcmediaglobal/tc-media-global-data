@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T21:41:56Z",
+  "generated_at": "2026-10-31T01:05:21Z",
   "last_full_refresh_at": "2026-10-30T17:14:51Z",
   "channels": {
     "music": {
@@ -118,6 +118,76 @@
     }
   },
   "videos": [
+    {
+      "id": "y3FpT_PlrR0",
+      "title": "P1-3 | 7,5 GIỜ | Hệ Thống Hợp Nhất Toàn Gia Tộc - Thiếu Gia Không Tu Vi Một Bước Thành Đại Đế Cảnh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T01:02:36Z",
+      "duration_seconds": 26450,
+      "thumbnail_url": "https://i.ytimg.com/vi/y3FpT_PlrR0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "o_F-BgMznfE",
+      "title": "Chồng Đưa Nhân Tình Mang Thai Đi Khám, Vợ Nhận Tin Từ 10 Năm Sau, Nào Ngờ Cô Thành Chủ Tịch Tập Đoàn",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T01:00:35Z",
+      "duration_seconds": 5112,
+      "thumbnail_url": "https://i.ytimg.com/vi/o_F-BgMznfE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "1xAZ55xtq2s",
+      "title": "Xuyên Không Làm Tiểu Cẩm Y Vệ, Càng Bắt Gian Thần Càng Mạnh, Cuối Cùng Một Mình Trấn Áp Toàn Võ Lâm",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-31T01:00:10Z",
+      "duration_seconds": 16715,
+      "thumbnail_url": "https://i.ytimg.com/vi/1xAZ55xtq2s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Ht7nlfmk7rY",
+      "title": "Vợ Tỉnh Sau 3 Tháng Hôn Mê, Bạn Thân Báo Chồng Đã Chết, Nào Ngờ Kẻ Bên Cạnh Là Anh Em Sinh Đôi Ruột",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T00:00:20Z",
+      "duration_seconds": 7891,
+      "thumbnail_url": "https://i.ytimg.com/vi/Ht7nlfmk7rY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "KWSbAnaUiZk",
+      "title": "Nhà Phá Sản Nợ 90 Triệu Tệ, Hôn Phu Bỏ Rơi Cô, Nào Ngờ Cô Cưới Ngay Cậu Út Quyền Thế Của Anh Ta",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-30T23:00:27Z",
+      "duration_seconds": 9434,
+      "thumbnail_url": "https://i.ytimg.com/vi/KWSbAnaUiZk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "Jm5f-E2fmqg",
       "title": "Phần 1(P2): Trỗi Dậy! Phàm Nhân Tu Tiên: Tạp Dịch Ngoại Môn",

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T01:05:21Z",
+  "generated_at": "2026-10-31T07:31:41Z",
   "last_full_refresh_at": "2026-10-30T17:14:51Z",
   "channels": {
     "music": {
@@ -118,6 +118,384 @@
     }
   },
   "videos": [
+    {
+      "id": "jQvqy1Zr4uQ",
+      "title": "Full Version l Nghe Được Tiếng Lòng Tôi, Cả Nhà Mới Biết Đã Thương Nhầm Người l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-10-31T07:24:54Z",
+      "duration_seconds": 2761,
+      "thumbnail_url": "https://i.ytimg.com/vi/jQvqy1Zr4uQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "JlFNSIt43-c",
+      "title": "Vợ Giữ Hết Lương, Chồng Xin 50 Tệ Mua Thức Ăn Cho Cá Cũng Bị Mắng, Nào Ngờ Anh Ly Hôn Mở Tiệm Riêng",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T07:00:27Z",
+      "duration_seconds": 10566,
+      "thumbnail_url": "https://i.ytimg.com/vi/JlFNSIt43-c/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "odNNN-a_fgc",
+      "title": "Bị Cả Tông Môn Coi Là Phế Vật, Hắn Kích Hoạt Hệ Thống, Được Các Sư Tỷ Xinh Đẹp Tranh Nhau Sủng Ái!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-31T07:00:03Z",
+      "duration_seconds": 7264,
+      "thumbnail_url": "https://i.ytimg.com/vi/odNNN-a_fgc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "yJhgUrYQPlM",
+      "title": "Phần 10(P9- 982): Từ Tạp Dịch Vô Danh, Ta Khổ Tu Phù Đạo Nghịch Thiên Thành Tiên Nhân",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-31T06:36:53Z",
+      "duration_seconds": 3068,
+      "thumbnail_url": "https://i.ytimg.com/vi/yJhgUrYQPlM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "3Ocfrn4-s34",
+      "title": "3 GIỜ | Thần Võ Thuật - Xuyên Làm Tạp Dịch - Ta Dựa Vào Bảng Kỹ Năng Để Thay Đổi Số Mệnh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T06:30:29Z",
+      "duration_seconds": 10568,
+      "thumbnail_url": "https://i.ytimg.com/vi/3Ocfrn4-s34/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "CARNtK1Gabw",
+      "title": "夜灯下的告别",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-31T06:11:50Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/CARNtK1Gabw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "LFkyC_zj6Pw",
+      "title": "夜灯下的告别 — 慢歌抒情｜在夜里学会把你的名字放下（Official Audio）",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-31T06:08:06Z",
+      "duration_seconds": 239,
+      "thumbnail_url": "https://i.ytimg.com/vi/LFkyC_zj6Pw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "_9QIIWCGlb0",
+      "title": "Phần 15 | Tụ Bảo Tiên Bồn: Tạp Linh Căn Mới Là BOSS Thật Sự",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-10-31T05:37:34Z",
+      "duration_seconds": 24761,
+      "thumbnail_url": "https://i.ytimg.com/vi/_9QIIWCGlb0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "OhA-MfqBiOI",
+      "title": "Adik Miliarder Pulang Ke Desa, Lihat Kakaknya Pingsan Kelaparan Akibat Mertua, Langsung Balas Dendam",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-10-31T05:00:53Z",
+      "duration_seconds": 5606,
+      "thumbnail_url": "https://i.ytimg.com/vi/OhA-MfqBiOI/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "QezaToF-cVM",
+      "title": "Đi Dự Đám Cưới Bạn Thân, Cô Sững Sờ Thấy Chồng Mình Là Chú Rể, Nào Ngờ Anh Đã Lừa Cô Suốt 3 Tháng",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T05:00:28Z",
+      "duration_seconds": 5069,
+      "thumbnail_url": "https://i.ytimg.com/vi/QezaToF-cVM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "_15mmju8xkA",
+      "title": "Sinh Tồn Hoang Đảo: Ta Dẫn Theo Hoa Khôi Trốn Thoát | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-31T05:00:22Z",
+      "duration_seconds": 4874,
+      "thumbnail_url": "https://i.ytimg.com/vi/_15mmju8xkA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "XQux5eyP7GI",
+      "title": "Xuyên Làm Thiếu Gia Phế Vật - Hệ Thống Nhiệm Vụ Cấp Thần - Âm Thầm Thành Cường Giả",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T04:49:25Z",
+      "duration_seconds": 9409,
+      "thumbnail_url": "https://i.ytimg.com/vi/XQux5eyP7GI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "_Uzr003noKA",
+      "title": "3,5 GIỜ | Xuyên Làm Nhị Thiếu Gia Ăn Chơi - Hệ Thống Hóa Chiến Thần Cùng Trí Tuệ Lên Ngôi Hoàng Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T04:16:34Z",
+      "duration_seconds": 12911,
+      "thumbnail_url": "https://i.ytimg.com/vi/_Uzr003noKA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "oxOlzYWsaSk",
+      "title": "Phần 10: Từ Đống Xác Trở Lại, Cầm Đao Khuấy Động Giang Hồ, Lật Tung Bàn Cờ",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-10-31T04:02:22Z",
+      "duration_seconds": 7666,
+      "thumbnail_url": "https://i.ytimg.com/vi/oxOlzYWsaSk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "hqJDpsldsv8",
+      "title": "Pengemis Turun Gunung, CEO Cantik Minta Batalkan Pertunangan, Tak Tahu Dia Dewa Perang Penyelamatnya",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-10-31T04:00:31Z",
+      "duration_seconds": 4464,
+      "thumbnail_url": "https://i.ytimg.com/vi/hqJDpsldsv8/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "PMzgGIqL3RI",
+      "title": "Bị Anh Trai Khinh Là Con Rơi, Tổng Tài Đòi Quyền Nhà Họ Chúc, Còn Đưa Vợ Lên Ghế Chủ Tịch Tập Đoàn",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T04:00:19Z",
+      "duration_seconds": 7874,
+      "thumbnail_url": "https://i.ytimg.com/vi/PMzgGIqL3RI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "oZJTGoZwKBk",
+      "title": "Full Mùa 1+ 2 |  Tận Thế Bùng Phát: Cô Gái Thức Tỉnh Dị Năng Gánh Cả Đội Sinh Tồn | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-31T04:00:11Z",
+      "duration_seconds": 19086,
+      "thumbnail_url": "https://i.ytimg.com/vi/oZJTGoZwKBk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "BGdHPX4zVS4",
+      "title": "Monster Level 6 Mau Makan Pria Miskin, Ternyata Dewa Perang Rank S, Dihajar Hingga Memohon Mengabdi",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-10-31T04:00:02Z",
+      "duration_seconds": 5220,
+      "thumbnail_url": "https://i.ytimg.com/vi/BGdHPX4zVS4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "tUqV4z35V0E",
+      "title": "P1-2 | 4,5 GIỜ | Phụ Hoàng Vô Địch - Nào Ngờ Người Là Đại Tướng Thiên Tài Xuyên Không",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T03:40:40Z",
+      "duration_seconds": 16390,
+      "thumbnail_url": "https://i.ytimg.com/vi/tUqV4z35V0E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "4SHIaOsEE5Y",
+      "title": "Tổng tài tỷ phú giả nghèo thử lòng người, ai ngờ cô gái quê không chê còn lấy anh làm chồng",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-10-31T03:30:14Z",
+      "duration_seconds": 6638,
+      "thumbnail_url": "https://i.ytimg.com/vi/4SHIaOsEE5Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "LwUn8lDOG-w",
+      "title": "Pria Desa Salah Masuk Kamar Hotel CEO Cantik, Dipaksa Menikah, Sang CEO Ingin Hamil Anak Darinya!",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-10-31T03:00:34Z",
+      "duration_seconds": 7216,
+      "thumbnail_url": "https://i.ytimg.com/vi/LwUn8lDOG-w/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "k1sxnvSElU4",
+      "title": "Sinh Tồn Đảo Hoang Tôi Làm Vua Giữa Bầy Thú Dữ Và Mỹ Nữ | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-10-31T03:00:28Z",
+      "duration_seconds": 9835,
+      "thumbnail_url": "https://i.ytimg.com/vi/k1sxnvSElU4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ADNNUVTIBpQ",
+      "title": "Nữ Đệ Tử Biết Trước Âm Mưu Vu Oan, Quyết Định Bỏ Trốn, Ngày Ngày Bám Theo Tuyệt Thế Tiên Tôn!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-10-31T03:00:18Z",
+      "duration_seconds": 18885,
+      "thumbnail_url": "https://i.ytimg.com/vi/ADNNUVTIBpQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "_c4IEN41sHs",
+      "title": "CEO Di Kursi Roda Cari Mantan Demi Balas Dendam, Baru Bertemu Tahu Ia Diam Diam Melahirkan Anaknya",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-10-31T03:00:16Z",
+      "duration_seconds": 3286,
+      "thumbnail_url": "https://i.ytimg.com/vi/_c4IEN41sHs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "TOV5g5SD2VU",
+      "title": "16 GIỜ | Tụ Tiên Bảo Bồn: Bát Mẻ Vấn Đạo (TẬP 1-1000)",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-10-31T03:00:10Z",
+      "duration_seconds": 58371,
+      "thumbnail_url": "https://i.ytimg.com/vi/TOV5g5SD2VU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "vgtkmeoJ5GQ",
+      "title": "Vạn Pháp Bảo Điển - Tạp Dịch Thất Linh Căn - Ta Thành Thần Nhờ Luyện Đan Luyện Khí",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-10-31T02:06:16Z",
+      "duration_seconds": 7268,
+      "thumbnail_url": "https://i.ytimg.com/vi/vgtkmeoJ5GQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "uLk57Q5jRps",
+      "title": "Vợ Tổng Tài Bỏ Chồng Ở Sân Bay Để Đưa Vệ Sĩ Đi Du Lịch, Nào Ngờ Anh Hủy Biệt Thự Và Du Thuyền Riêng",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T02:00:19Z",
+      "duration_seconds": 11810,
+      "thumbnail_url": "https://i.ytimg.com/vi/uLk57Q5jRps/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "y3FpT_PlrR0",
       "title": "P1-3 | 7,5 GIỜ | Hệ Thống Hợp Nhất Toàn Gia Tộc - Thiếu Gia Không Tu Vi Một Bước Thành Đại Đế Cảnh",

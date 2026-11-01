@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T19:13:29Z",
+  "generated_at": "2026-11-01T23:07:23Z",
   "last_full_refresh_at": "2026-11-01T19:13:29Z",
   "channels": {
     "music": {
@@ -118,6 +118,34 @@
     }
   },
   "videos": [
+    {
+      "id": "_W6WXH5nn5Q",
+      "title": "12 GIỜ | Xuyên Không Gặp Hệ Thống Làm Ác, Ta Càng Gây Chuyện Càng Mạnh | Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-01T23:00:18Z",
+      "duration_seconds": 45977,
+      "thumbnail_url": "https://i.ytimg.com/vi/_W6WXH5nn5Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "1JG-zoxwh5s",
+      "title": "Bệnh Nhân Ung Thư Được Hệ Thống Đưa Vào Giới Tài Phiệt, Nào Ngờ Lộ Thân Phận Giả Là Sẽ Mất Mạng!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-01T23:00:09Z",
+      "duration_seconds": 11693,
+      "thumbnail_url": "https://i.ytimg.com/vi/1JG-zoxwh5s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "8xYt5dgkXzI",
       "title": "Phần 4 | Kiếm Thần Trở Lại, Mười Vạn Năm Cùng Con Lừa | Luyện Kiếm 10 Vạn Năm Thành Kiếm Thần",

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T21:52:59Z",
+  "generated_at": "2026-11-01T00:45:59Z",
   "last_full_refresh_at": "2026-10-31T18:17:53Z",
   "channels": {
     "music": {
@@ -118,6 +118,48 @@
     }
   },
   "videos": [
+    {
+      "id": "91pfMCvd4bw",
+      "title": "Bạn Bè Khinh Anh Là Công Nhân Nghèo, Nào Ngờ Anh Trúng Số 130 Triệu Tệ Và Âm Thầm Thử Lòng Tất Cả",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-01T00:00:30Z",
+      "duration_seconds": 20438,
+      "thumbnail_url": "https://i.ytimg.com/vi/91pfMCvd4bw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "y1p3w8ACK3A",
+      "title": "Mỗi Ngày Nhận 3 Tình Báo, Ta Đi Trước Kẻ Thù Một Bước (MÙA 1)",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-10-31T23:00:35Z",
+      "duration_seconds": 15887,
+      "thumbnail_url": "https://i.ytimg.com/vi/y1p3w8ACK3A/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "jbynw6PR19A",
+      "title": "Bạn Gái Phản Bội Lấy Hết Tiền Chữa Bệnh Cho Mẹ, Nào Ngờ Anh Có Dị Năng Giám Bảo Đổi Đời Ngoạn Mục",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-10-31T23:00:09Z",
+      "duration_seconds": 7911,
+      "thumbnail_url": "https://i.ytimg.com/vi/jbynw6PR19A/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "g9pzjIaC_qU",
       "title": "Phần 21 | Thái Huyền Thai Châu Truyện",

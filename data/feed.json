@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T10:04:39Z",
-  "last_full_refresh_at": "2026-11-01T19:13:29Z",
+  "generated_at": "2026-11-02T20:30:39Z",
+  "last_full_refresh_at": "2026-11-02T20:30:39Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -118,6 +118,356 @@
     }
   },
   "videos": [
+    {
+      "id": "QpJ5px-UBiw",
+      "title": "Phần 5 | Sơn Tặc Xuyên Không Đi Tu Tiên, Ta Dùng Võ Thần Quyết Quậy Tung Tu Tiên Giới",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-02T17:41:08Z",
+      "duration_seconds": 9777,
+      "thumbnail_url": "https://i.ytimg.com/vi/QpJ5px-UBiw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "LT8dJmgCG1I",
+      "title": "Sàn Nhớ Em (Remix)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-02T16:08:10Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/LT8dJmgCG1I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "CYGaNY9IBx0",
+      "title": "Sàn Nhớ Em (Remix) — Điệu Nhảy Của Ký Ức | Official Remix (4:00) | Original Parody",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-02T16:07:48Z",
+      "duration_seconds": 240,
+      "thumbnail_url": "https://i.ytimg.com/vi/CYGaNY9IBx0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "CSPG3YTAN6c",
+      "title": "Bị Cả Thiên Hạ Coi Thường, Thiếu Niên Quyết Tâm Tu Luyện, Cuối Cùng Quân Lâm Cửu Thiên Thành Đế!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-02T15:00:01Z",
+      "duration_seconds": 12170,
+      "thumbnail_url": "https://i.ytimg.com/vi/CSPG3YTAN6c/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "sBf2vFX5nng",
+      "title": "Đệ Tử Phế Vật Bị Đuổi Khỏi Tông Môn, Nào Ngờ Uống Rượu Lại Kích Hoạt Hệ Thống Vô Địch!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-02T13:27:33Z",
+      "duration_seconds": 9334,
+      "thumbnail_url": "https://i.ytimg.com/vi/sBf2vFX5nng/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "mLqC5mqVC-w",
+      "title": "Tam Hoàng Tử Phế Vật - Hệ Thống Điểm Danh Muộn 18 Năm - Ta Thành Bất Bại Lên Ngôi Hoàng Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T13:08:44Z",
+      "duration_seconds": 8562,
+      "thumbnail_url": "https://i.ytimg.com/vi/mLqC5mqVC-w/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "I0zYXh9LQTs",
+      "title": "Bà Làm 3 Việc Nuôi Bạn Trai Hôn Mê Suốt 3 Năm, Nào Ngờ Ông Tỉnh Dậy Là Chủ Tịch Tập Đoàn Trăm Tỷ!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-02T13:00:26Z",
+      "duration_seconds": 8152,
+      "thumbnail_url": "https://i.ytimg.com/vi/I0zYXh9LQTs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "XMjLbCqFLYk",
+      "title": "Xuyên Làm Quan Huyện - Hệ Thống Thần Hào Mỗi Ngày Bắt Tiêu Ngàn Lượng - Ta Dựng Lên Cả Đế Chế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T12:34:03Z",
+      "duration_seconds": 7462,
+      "thumbnail_url": "https://i.ytimg.com/vi/XMjLbCqFLYk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "u9ISITt9OO0",
+      "title": "Gadis Selamatkan Pengemis Sekarat di Selokan, Ternyata Dewa Perang yang Kalahkan 3 Robot Pembunuh",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-02T12:30:06Z",
+      "duration_seconds": 4039,
+      "thumbnail_url": "https://i.ytimg.com/vi/u9ISITt9OO0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "zI1Y-R7Nj9g",
+      "title": "유리창에 맺힌 우리 — 팝 발라드",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-02T12:07:40Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/zI1Y-R7Nj9g/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "RQtVJkHgAZg",
+      "title": "유리창에 맺힌 우리 — 잔잔한 팝 발라드 | 이별 후 그리움과 치유의 노래 (Official Audio)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-02T12:07:29Z",
+      "duration_seconds": 240,
+      "thumbnail_url": "https://i.ytimg.com/vi/RQtVJkHgAZg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "F63FMZtjxRA",
+      "title": "Sinh Tồn Tàu Hỏa: Nhận Thiên Phú Cấp SSSS Một Mình Quét Sạch Tận Thế! | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-02T12:00:39Z",
+      "duration_seconds": 4237,
+      "thumbnail_url": "https://i.ytimg.com/vi/F63FMZtjxRA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "n5XdS_JwAzY",
+      "title": "Cô Dâu Ép 4 Bạn Thân Mặc Váy Phù Dâu Rẻ Tiền, Nào Ngờ Họ Bóc Trần Bộ Mặt Thật Khiến Chú Rể Hủy Hôn!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-02T12:00:00Z",
+      "duration_seconds": 5353,
+      "thumbnail_url": "https://i.ytimg.com/vi/n5XdS_JwAzY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "AEQaqufh_rQ",
+      "title": "Dựa Vào Tình Báo Thần Bí, Hắn Biết Trước Mọi Cơ Duyên, Báo Thù Huyết Hận, Đạp Đỉnh Tiên Võ!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-02T11:48:32Z",
+      "duration_seconds": 12720,
+      "thumbnail_url": "https://i.ytimg.com/vi/AEQaqufh_rQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "kNjyFty7qcw",
+      "title": "3 GIỜ | Xuyên Làm Thiếu Tông Chủ - Ta Sở Hữu Hồng Mông Bất Diệt Thể Cùng Hệ Thống Điểm Danh Thần Cấp",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T11:43:48Z",
+      "duration_seconds": 9787,
+      "thumbnail_url": "https://i.ytimg.com/vi/kNjyFty7qcw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "7W6Nb9yeIwU",
+      "title": "Gadis Bantu Kakek Pemulung, Adik Sebar Kabar Nikah Pria Miskin, Diusir, Ternyata Istri Miliarder",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-02T11:30:33Z",
+      "duration_seconds": 3970,
+      "thumbnail_url": "https://i.ytimg.com/vi/7W6Nb9yeIwU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "u2N_RMACkSE",
+      "title": "Chồng Cũ Dẫn Tiểu Tam Đến Sỉ Nhục, Tôi Rút 2 Tỷ Đô, Đuổi Hắn Ra Đường, Tự Thành Nữ Tỷ Phú!",
+      "channel": "drama4",
+      "channel_title": "Câu Chuyện Tình Yêu",
+      "published_at": "2026-11-02T11:14:22Z",
+      "duration_seconds": 9162,
+      "thumbnail_url": "https://i.ytimg.com/vi/u2N_RMACkSE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "seyq8wa47k0",
+      "title": "Thiếu Chủ Thiên Kiếm Phủ - Bị Phế Tu Vi Nào Ngờ Giải Khai Phong Ấn Vả Mặt Mọi Thiên Kiêu",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T11:06:06Z",
+      "duration_seconds": 8356,
+      "thumbnail_url": "https://i.ytimg.com/vi/seyq8wa47k0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "dvxgsFyGAGU",
+      "title": "Trùng Sinh Về Tận Thế Vả Mặt Trà Xanh Ta Mang Không Gian Trở Thành Bá Chủ  | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-02T11:00:35Z",
+      "duration_seconds": 9040,
+      "thumbnail_url": "https://i.ytimg.com/vi/dvxgsFyGAGU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "XXZH9Y8iPuk",
+      "title": "Bố Giấu 72 Nghìn Tệ Mẹ Kế Gửi Cho Con Gái, Nào Ngờ Cô Phải Dọn Khay Cơm Ở Trường Để Sống Qua Ngày!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-02T11:00:33Z",
+      "duration_seconds": 5925,
+      "thumbnail_url": "https://i.ytimg.com/vi/XXZH9Y8iPuk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "OUXkgB-OLz4",
+      "title": "Jenderal Wanita Turun Gunung Cari Suami, Dihadang Bandit! Murka, Ia Menghabisi Mereka Semua!",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-02T11:00:24Z",
+      "duration_seconds": 6136,
+      "thumbnail_url": "https://i.ytimg.com/vi/OUXkgB-OLz4/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "-k_D6Uc7WXA",
+      "title": "Phần 20 | Thái Huyền Thai Châu Truyện",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-02T10:44:22Z",
+      "duration_seconds": 8531,
+      "thumbnail_url": "https://i.ytimg.com/vi/-k_D6Uc7WXA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "tiDObVBCan4",
+      "title": "Trọng Sinh Về Cổ Đại Thành Công Tử Ăn Chơi, Hắn Giả Ngốc Suốt Ngày Để Âm Thầm Báo Thù!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-02T10:30:33Z",
+      "duration_seconds": 11967,
+      "thumbnail_url": "https://i.ytimg.com/vi/tiDObVBCan4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "XuUkuDx7kd0",
+      "title": "Full Version l Bị Nam Thần Từ Chối, Tôi Quay Sang Hôn Nhầm Trai Hư l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-02T10:25:49Z",
+      "duration_seconds": 3059,
+      "thumbnail_url": "https://i.ytimg.com/vi/XuUkuDx7kd0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "FSunHXCcul4",
+      "title": "Ngũ Hoàng Tử Mạnh Nhất Bị Lưu Đày - Dùng Trí Tuệ Thiên Tài Lật Đổ Cả Thế Giới",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-02T10:12:04Z",
+      "duration_seconds": 8518,
+      "thumbnail_url": "https://i.ytimg.com/vi/FSunHXCcul4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "mkm00mWS7zA",
       "title": "Pacar Selingkuh Dengan Adiknya, Ia Goda Paman Kandungnya Demi Balas Dendam, Seluruh Keluarga Syok",
@@ -3369,20 +3719,6 @@
       ]
     },
     {
-      "id": "OTqpYdKSvUw",
-      "title": "Chàng Rể Bị Cả Kinh Thành Chế Giễu, Ba Bài Thơ Kinh Thiên Động Địa Khiến Quyền Quý Cúi Đầu",
-      "channel": "movies2",
-      "channel_title": "Ngự Kiếm TV",
-      "published_at": "2026-10-30T01:00:29Z",
-      "duration_seconds": 20015,
-      "thumbnail_url": "https://i.ytimg.com/vi/OTqpYdKSvUw/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "WPzg2z9NVps",
       "title": "Trọng Sinh Về Năm 2013, Anh Ngăn Họ Hàng Cướp Tiền Đền Bù Và Giúp Cha Mẹ Đổi Đời Thật Ngoạn Mục",
       "channel": "drama3",
@@ -5004,20 +5340,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "zkc2bk4snOY",
-      "title": "Xuyên Không Gặp Thời Loạn Yêu Ma, Hắn Dùng Tri Thức Và Tu Vi, Giết Xuyên Cục Diệt Yêu Thành Chí Tôn!",
-      "channel": "movies2",
-      "channel_title": "Ngự Kiếm TV",
-      "published_at": "2026-10-28T01:00:30Z",
-      "duration_seconds": 21479,
-      "thumbnail_url": "https://i.ytimg.com/vi/zkc2bk4snOY/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -7608,20 +7930,6 @@
       "published_at": "2026-10-24T09:00:31Z",
       "duration_seconds": 10081,
       "thumbnail_url": "https://i.ytimg.com/vi/gfCgs1aVnnk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "Th1xRafqhL4",
-      "title": "Phế Thể Đêm Tân Hôn Bị Sỉ Nhục, Ta Chọn Hệ Thống Cấp Thần, Một Bước Đạp Nát Cửu Trùng Thiên!",
-      "channel": "movies2",
-      "channel_title": "Ngự Kiếm TV",
-      "published_at": "2026-10-24T09:00:09Z",
-      "duration_seconds": 20223,
-      "thumbnail_url": "https://i.ytimg.com/vi/Th1xRafqhL4/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -36447,20 +36755,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "FPtuIR2O6uk",
-      "title": "Đệ Tử Bét Bảng Tông Môn, Ta Vốn Đã Vô Địch Ra Tay Cứu Tông Môn, Hệ Thống Càng Gặp Càng Mạnh",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-09-01T08:24:17Z",
-      "duration_seconds": 7711,
-      "thumbnail_url": "https://i.ytimg.com/vi/FPtuIR2O6uk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {

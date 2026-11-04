@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T11:36:31Z",
+  "generated_at": "2026-11-04T18:52:48Z",
   "last_full_refresh_at": "2026-11-03T23:42:20Z",
   "channels": {
     "music": {
@@ -118,6 +118,189 @@
     }
   },
   "videos": [
+    {
+      "id": "zhKqzH0ChdY",
+      "title": "Phần 23 | Thái Huyền Thai Châu Truyện",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-04T18:05:08Z",
+      "duration_seconds": 7370,
+      "thumbnail_url": "https://i.ytimg.com/vi/zhKqzH0ChdY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "29pFrOnzE_M",
+      "title": "Phần 1: Xuyên Không Đến Thế Giới Tu Tiên Kỳ Dị, Ta Tu Luyện Cấm Thuật Nghịch Sinh Tử Để Trường Sinh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-04T17:43:53Z",
+      "duration_seconds": 14400,
+      "thumbnail_url": "https://i.ytimg.com/vi/29pFrOnzE_M/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "MEhxWo00qE4",
+      "title": "Buffer Ơi! Livestream Lộn Xộn",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-04T16:07:50Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/MEhxWo00qE4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "prjJz8ewB1E",
+      "title": "Buffer Ơi! Livestream Lộn Xộn — EDM parody vui về những pha livestream dở khóc dở cười",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-04T16:07:20Z",
+      "duration_seconds": 239,
+      "thumbnail_url": "https://i.ytimg.com/vi/prjJz8ewB1E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "hlRafUmk81A",
+      "title": "霓虹自由誌 — 高能台味EDM八首全新曲 • 台灣限定電子舞曲合輯",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-04T14:23:11Z",
+      "duration_seconds": 1417,
+      "thumbnail_url": "https://i.ytimg.com/vi/hlRafUmk81A/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music",
+        "edm"
+      ]
+    },
+    {
+      "id": "R-r0br0-CrI",
+      "title": "Tiểu Thư Giả Quẹt Thẻ Thất Bại Sau Bữa Tiệc 300 Nghìn Tệ, Nào Ngờ Chủ Quán Vạch Trần Mọi Âm Mưu!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-04T13:00:25Z",
+      "duration_seconds": 5171,
+      "thumbnail_url": "https://i.ytimg.com/vi/R-r0br0-CrI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "73HnjKtPg20",
+      "title": "Dayang Pencuci Dipaksa Permaisuri Lepas Baju, Satu Bekas Luka Ungkap Ia Kaisar Wanita Menyamar",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-04T12:30:22Z",
+      "duration_seconds": 3748,
+      "thumbnail_url": "https://i.ytimg.com/vi/73HnjKtPg20/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "hX5IQCsEQ6E",
+      "title": "4 GIỜ | Thiếu Gia Lưu Đày Đến Huyện Nghèo - Hệ Thống Vô Hạn Tài Nguyên - Ta Dựng Lên Cả Đế Chế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-04T12:30:15Z",
+      "duration_seconds": 14048,
+      "thumbnail_url": "https://i.ytimg.com/vi/hX5IQCsEQ6E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "qlBUchMd2wY",
+      "title": "把寂寞放回原位｜Official MV",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-04T12:09:06Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/qlBUchMd2wY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "fD47ksmH1S4",
+      "title": "把寂寞放回原位｜原創情歌｜Official Music Video — 慢慢療癒的4分鐘",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-04T12:07:17Z",
+      "duration_seconds": 242,
+      "thumbnail_url": "https://i.ytimg.com/vi/fD47ksmH1S4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "id": "JjgqlVT6oO4",
+      "title": "Sở Hữu Võ Linh Thôn Phệ Thiên Địa, Hắn Có Thể Biến Mọi Công Pháp Tàn Khuyết Thành Tuyệt Học Vô Song!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-04T12:00:31Z",
+      "duration_seconds": 10998,
+      "thumbnail_url": "https://i.ytimg.com/vi/JjgqlVT6oO4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "edaidmWgd0Q",
+      "title": "Sinh Tồn Tận Thế Ta Dùng Bàn Tay Vàng 12 Chòm Sao Càn Quét Phó Bản  | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-04T12:00:26Z",
+      "duration_seconds": 9678,
+      "thumbnail_url": "https://i.ytimg.com/vi/edaidmWgd0Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "8ghHzh3iTVc",
+      "title": "Bị Bạn Gái Chê Nghèo, Anh Xuyên Không Đến Thế Giới Hiếm Đàn Ông, Nào Ngờ Được Ghép Cưới Nữ Tổng Tài",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-04T12:00:25Z",
+      "duration_seconds": 7182,
+      "thumbnail_url": "https://i.ytimg.com/vi/8ghHzh3iTVc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "9U0ZxcTI1Ko",
       "title": "Suami Pasang CCTV Pantau Ibu Sakit, Istri Bawa Selingkuhan Bercinta, Pura Pura Hamil demi Uang",

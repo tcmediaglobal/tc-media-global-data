@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T15:50:02Z",
+  "generated_at": "2026-11-05T21:48:15Z",
   "last_full_refresh_at": "2026-11-05T00:11:41Z",
   "channels": {
     "music": {
@@ -118,6 +118,48 @@
     }
   },
   "videos": [
+    {
+      "id": "A7mzIrhCeDg",
+      "title": "Phần 4 -P4(900): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-05T20:03:37Z",
+      "duration_seconds": 2458,
+      "thumbnail_url": "https://i.ytimg.com/vi/A7mzIrhCeDg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "VCuKLoAxvew",
+      "title": "Phần 1- 3: Bị Hệ Thống Nhốt Mười Vạn Năm, Ta Dắt Lừa Xuất Thế Đã Vô Địch",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-05T17:59:51Z",
+      "duration_seconds": 23373,
+      "thumbnail_url": "https://i.ytimg.com/vi/VCuKLoAxvew/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "o89D38ZNFWY",
+      "title": "(fix) Vừa Xuyên Không Đã Đè Chết Huyết Tổ, Lão Già Nghỉ Hưu Bị Ép Giả Cao Nhân (MÙA 1) Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-05T16:14:20Z",
+      "duration_seconds": 12758,
+      "thumbnail_url": "https://i.ytimg.com/vi/o89D38ZNFWY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "QP6fmLkKL_U",
       "title": "Pemuda Tanpa Kekuatan Dihina Seisi Akademi, Ternyata Punya Sistem Pemanggil Dewa, Jadi Penguasa",
@@ -1339,7 +1381,7 @@
     },
     {
       "id": "6Efzott3zeg",
-      "title": "Cô Gái Bí Ẩn Khiến Ông Cụ 92 Tuổi Hấp Hối Bật Dậy - Lộ Thân Phận Thật Sự Khiến Cả Gia Tộc Quỳ Lạy!",
+      "title": "Cô Gái Nhà Quê Bị Cả Nhà Khinh Thường, Nào Ngờ Chỉ Khẽ Giơ Tay, Tất Cả Sợ Hãi Im Bặt!",
       "channel": "drama4",
       "channel_title": "Câu Chuyện Tình Yêu",
       "published_at": "2026-11-04T10:23:49Z",

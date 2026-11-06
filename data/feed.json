@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T21:48:15Z",
-  "last_full_refresh_at": "2026-11-05T00:11:41Z",
+  "generated_at": "2026-11-06T02:02:00Z",
+  "last_full_refresh_at": "2026-11-06T02:02:00Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -118,6 +118,132 @@
     }
   },
   "videos": [
+    {
+      "id": "gvJqNePASF4",
+      "title": "Cha Nghèo Bị Ép Mặc Đồ Hề Giữa Tiệc 30 Năm Tập Đoàn, Nào Ngờ Con Trai Trở Thành Tân Chủ Tịch!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-06T02:00:39Z",
+      "duration_seconds": 4914,
+      "thumbnail_url": "https://i.ytimg.com/vi/gvJqNePASF4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "lIfLzPY0Iek",
+      "title": "[FULL S3-5] AI GIẤU MẤT NÚT THOÁT GAME CỦA TA ĐÂU MẤT RỒI | LY VIETSUB 229",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-06T01:41:19Z",
+      "duration_seconds": 43244,
+      "thumbnail_url": "https://i.ytimg.com/vi/lIfLzPY0Iek/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "s5tak7ST2cY",
+      "title": "P1-4 BẢN ĐẸP | 45 Giờ Thỏa Mãn | Thiên Đạo Sụp Đổ - Từ Phàm Nhân Ta Nghịch Thiên Tu Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T01:38:06Z",
+      "duration_seconds": 161926,
+      "thumbnail_url": "https://i.ytimg.com/vi/s5tak7ST2cY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "PCTw1aEaDYk",
+      "title": "Full Version l Chặn Bạn Trai Qua Mạng, Ai Ngờ Thiếu Gia Tìm Về Tận Làng Đòi Yêu Tiếp l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-06T01:00:40Z",
+      "duration_seconds": 5663,
+      "thumbnail_url": "https://i.ytimg.com/vi/PCTw1aEaDYk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "MRu9Kt-XBLI",
+      "title": "Bị Vu Oan Và Đuổi Khỏi Tông Môn, Hắn Được Hoàng Hậu Linh Long Chọn, Thức Tỉnh Võ Hồn Đế Cấp",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-06T01:00:23Z",
+      "duration_seconds": 24234,
+      "thumbnail_url": "https://i.ytimg.com/vi/MRu9Kt-XBLI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "bsBmFx0IgTQ",
+      "title": "6 GIỜ | Hệ Thống Giảm Giá 1 Tỷ Lần - Công Pháp Đại Đế Chỉ Đáng Giá 1 Xu - Xuyên Làm Đệ Tử Phế Vật",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T00:51:22Z",
+      "duration_seconds": 21722,
+      "thumbnail_url": "https://i.ytimg.com/vi/bsBmFx0IgTQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "qWeMPn-WkIc",
+      "title": "Thiên Kim Thật Bị Gài Bẫy Mất Chức Phó Tổng, Nào Ngờ Kẻ Vu Khống Tự Lộ Sơ Hở, Cô Được Phục Chức!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-06T00:00:10Z",
+      "duration_seconds": 5327,
+      "thumbnail_url": "https://i.ytimg.com/vi/qWeMPn-WkIc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "RSRiwTIPp4E",
+      "title": "Nghe Con Gái Ước Chú Lục Là Bố, Chồng Ly Hôn Sau Nhiều Năm Hy Sinh, Khiến Vợ Hối Hận Thật Muộn Màng",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-05T23:00:29Z",
+      "duration_seconds": 5094,
+      "thumbnail_url": "https://i.ytimg.com/vi/RSRiwTIPp4E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "imqthbSsq10",
+      "title": "Xuyên Không Thành Tộc Trưởng, Đầu Tư Cho Tộc Nhân Nhận Hoàn Trả Vạn Lần (MÙA 1+2) Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-05T23:00:05Z",
+      "duration_seconds": 19868,
+      "thumbnail_url": "https://i.ytimg.com/vi/imqthbSsq10/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "A7mzIrhCeDg",
       "title": "Phần 4 -P4(900): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
@@ -2189,20 +2315,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "kX8gY3lATuA",
-      "title": "Ai Cũng Tưởng Hắn Là Công Tử Ăn Chơi, Nào Ngờ Một Tay Giải Quyết Nạn Đói, Chấn Động Thiên Hạ!",
-      "channel": "movies2",
-      "channel_title": "Ngự Kiếm TV",
-      "published_at": "2026-11-03T11:30:18Z",
-      "duration_seconds": 11959,
-      "thumbnail_url": "https://i.ytimg.com/vi/kX8gY3lATuA/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -4460,20 +4572,6 @@
       ]
     },
     {
-      "id": "ZFip3NSL_kI",
-      "title": "Phần 36-37 | Tro Tàn Cửu Châu, Ta Xuyên Không Về Cổ Đại Dùng Kiến Thức Hiện Đại Xoay Chuyển Càn Khôn",
-      "channel": "movies5",
-      "channel_title": "Linh San Vietsub",
-      "published_at": "2026-10-31T14:19:52Z",
-      "duration_seconds": 14778,
-      "thumbnail_url": "https://i.ytimg.com/vi/ZFip3NSL_kI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "7NkD97HDrvE",
       "title": "99 Tuổi Mới Gia Nhập Tông Môn - Ta Có Lục Bình Thần Kỳ - Tinh Luyện Phế Đan Thành Bảo Đan",
       "channel": "movies",
@@ -4811,20 +4909,6 @@
       ]
     },
     {
-      "id": "D-2iF11RHPA",
-      "title": "P2 | 5 GIỜ | Xuyên Làm Lính Quèn Bảo Vệ Tiểu Thư - Dùng Sức Mạnh Trở Thành Vị Vua Huyền Thoại",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-10-31T08:30:05Z",
-      "duration_seconds": 17287,
-      "thumbnail_url": "https://i.ytimg.com/vi/D-2iF11RHPA/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "GljfJLX6ids",
       "title": "Cận Kề Cái Chết Bỗng Kích Hoạt Hệ Thống Xổ Số, Hắn Dùng Điểm Ước Nguyện Đổi Tuyệt Thế Thần Công!",
       "channel": "movies2",
@@ -4934,20 +5018,6 @@
       "kind": "regular",
       "categories": [
         "music"
-      ]
-    },
-    {
-      "id": "_9QIIWCGlb0",
-      "title": "Phần 15 | Tụ Bảo Tiên Bồn: Tạp Linh Căn Mới Là BOSS Thật Sự",
-      "channel": "movies5",
-      "channel_title": "Linh San Vietsub",
-      "published_at": "2026-10-31T05:37:34Z",
-      "duration_seconds": 24761,
-      "thumbnail_url": "https://i.ytimg.com/vi/_9QIIWCGlb0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -5484,20 +5554,6 @@
       ]
     },
     {
-      "id": "gcH_EOvo81E",
-      "title": "3,5 GIỜ | Xuyên Làm Phò Mã Chỉ Muốn Nằm Ngang - Dùng Kiến Thức Thiên Tài Thay Đổi Vận Mệnh Quốc Gia",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-10-30T10:27:35Z",
-      "duration_seconds": 11969,
-      "thumbnail_url": "https://i.ytimg.com/vi/gcH_EOvo81E/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "s7VHt009wLw",
       "title": "Giả Ngốc Làm Công Tử Ăn Chơi, Nào Ngờ Hắn Sở Hữu Hệ Thống Phản Diện, Âm Thầm Thao Túng Thất Quốc!",
       "channel": "movies2",
@@ -5575,20 +5631,6 @@
       "published_at": "2026-10-30T09:00:17Z",
       "duration_seconds": 18655,
       "thumbnail_url": "https://i.ytimg.com/vi/GbTfTAD14Cc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "rcOSM6XiXK4",
-      "title": "Phần 37 | Tro Tàn Cửu Châu - Chiến Thần Thương Lộ -  Lính Đặc Chủng Xuyên Không Làm Tốt Thí",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-10-30T08:53:19Z",
-      "duration_seconds": 7421,
-      "thumbnail_url": "https://i.ytimg.com/vi/rcOSM6XiXK4/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -9259,20 +9301,6 @@
       "published_at": "2026-10-25T07:33:06Z",
       "duration_seconds": 14353,
       "thumbnail_url": "https://i.ytimg.com/vi/2yvVnwT53Bo/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "WCkCT6ErOsE",
-      "title": "3H | Uống Thuốc Cộng Dồn Thuộc Tính Vô Hạn - Phế Vật Cứ Ngỡ Cấp F - Nào Ngờ Thần Cấp SSS+",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-10-25T06:30:13Z",
-      "duration_seconds": 11292,
-      "thumbnail_url": "https://i.ytimg.com/vi/WCkCT6ErOsE/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -28239,7 +28267,7 @@
     },
     {
       "id": "FXN2Lg1G0k4",
-      "title": "[FULL 12H] KẸT LẠI TU TIÊN: HẾT CỬA VỀ, TA ĐÀNH ĐÀO TẠO RA DÀN NỮ ĐẾ VÔ ĐỊCH | LY VIETSUB 229",
+      "title": "[FULL S1-2] AI GIẤU MẤT NÚT THOÁT GAME CỦA TA ĐÂU MẤT RỒI | LY VIETSUB 229",
       "channel": "movies4",
       "channel_title": "Ly VietSub",
       "published_at": "2026-09-21T05:32:03Z",
@@ -33654,20 +33682,6 @@
       "kind": "short",
       "categories": [
         "shorts"
-      ]
-    },
-    {
-      "id": "8HMtQMx_EfU",
-      "title": "10 Vạn Năm Trấn Thủ Đế Quan, Ta Trở Về Hóa Đỉnh Phong Đại Đế, Kẻ Nào Dám Động Vào Gia Tộc Của Ta!",
-      "channel": "movies2",
-      "channel_title": "Ngự Kiếm TV",
-      "published_at": "2026-09-10T23:00:38Z",
-      "duration_seconds": 10372,
-      "thumbnail_url": "https://i.ytimg.com/vi/8HMtQMx_EfU/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {

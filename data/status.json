@@ -1,29 +1,29 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-05T21:48:15Z",
-  "last_full_refresh_at": "2026-11-05T00:11:41Z",
+  "last_success_at": "2026-11-06T02:02:00Z",
+  "last_full_refresh_at": "2026-11-06T02:02:00Z",
   "video_counts": {
     "music": 221,
     "edm": 38,
     "shorts": 354,
-    "cartoon": 2799,
-    "drama": 1953,
+    "cartoon": 2796,
+    "drama": 1957,
     "music_shorts": 354,
     "music_long": 38,
-    "movies": 2799
+    "movies": 2796
   },
   "source_counts": {
     "music": 575,
-    "movies": 451,
-    "movies2": 169,
+    "movies": 449,
+    "movies2": 168,
     "movies3": 239,
-    "movies4": 603,
-    "movies5": 153,
+    "movies4": 604,
+    "movies5": 151,
     "movies6": 572,
-    "movies7": 616,
+    "movies7": 617,
     "drama": 123,
-    "drama2": 299,
-    "drama3": 87,
+    "drama2": 300,
+    "drama3": 90,
     "drama4": 310,
     "drama5": 668,
     "drama6": 648
@@ -37,13 +37,13 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 451,
+      "video_count": 449,
       "sync_status": "ok",
       "error": ""
     },
     "movies2": {
       "handle": "@ngukiemtv",
-      "video_count": 169,
+      "video_count": 168,
       "sync_status": "ok",
       "error": ""
     },
@@ -55,13 +55,13 @@
     },
     "movies4": {
       "handle": "@LyVietSub",
-      "video_count": 603,
+      "video_count": 604,
       "sync_status": "ok",
       "error": ""
     },
     "movies5": {
       "handle": "@linhsanvietsub.official",
-      "video_count": 153,
+      "video_count": 151,
       "sync_status": "ok",
       "error": ""
     },
@@ -73,7 +73,7 @@
     },
     "movies7": {
       "handle": "@taihalephidung",
-      "video_count": 616,
+      "video_count": 617,
       "sync_status": "ok",
       "error": ""
     },
@@ -85,13 +85,13 @@
     },
     "drama2": {
       "handle": "@SoraDub28",
-      "video_count": 299,
+      "video_count": 300,
       "sync_status": "ok",
       "error": ""
     },
     "drama3": {
       "handle": "@trieuvyreview",
-      "video_count": 87,
+      "video_count": 90,
       "sync_status": "ok",
       "error": ""
     },

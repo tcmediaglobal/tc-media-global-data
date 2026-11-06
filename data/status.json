@@ -1,32 +1,32 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-06T02:02:00Z",
+  "last_success_at": "2026-11-06T09:54:56Z",
   "last_full_refresh_at": "2026-11-06T02:02:00Z",
   "video_counts": {
     "music": 221,
     "edm": 38,
     "shorts": 354,
-    "cartoon": 2796,
-    "drama": 1957,
+    "cartoon": 2813,
+    "drama": 1965,
     "music_shorts": 354,
     "music_long": 38,
-    "movies": 2796
+    "movies": 2813
   },
   "source_counts": {
     "music": 575,
-    "movies": 449,
-    "movies2": 168,
-    "movies3": 239,
-    "movies4": 604,
-    "movies5": 151,
-    "movies6": 572,
+    "movies": 457,
+    "movies2": 171,
+    "movies3": 240,
+    "movies4": 605,
+    "movies5": 152,
+    "movies6": 575,
     "movies7": 617,
     "drama": 123,
     "drama2": 300,
-    "drama3": 90,
+    "drama3": 92,
     "drama4": 310,
-    "drama5": 668,
-    "drama6": 648
+    "drama5": 671,
+    "drama6": 651
   },
   "sources": {
     "music": {
@@ -37,37 +37,37 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 449,
+      "video_count": 457,
       "sync_status": "ok",
       "error": ""
     },
     "movies2": {
       "handle": "@ngukiemtv",
-      "video_count": 168,
+      "video_count": 171,
       "sync_status": "ok",
       "error": ""
     },
     "movies3": {
       "handle": "@nao-phang",
-      "video_count": 239,
+      "video_count": 240,
       "sync_status": "ok",
       "error": ""
     },
     "movies4": {
       "handle": "@LyVietSub",
-      "video_count": 604,
+      "video_count": 605,
       "sync_status": "ok",
       "error": ""
     },
     "movies5": {
       "handle": "@linhsanvietsub.official",
-      "video_count": 151,
+      "video_count": 152,
       "sync_status": "ok",
       "error": ""
     },
     "movies6": {
       "handle": "@daudau.vietsub",
-      "video_count": 572,
+      "video_count": 575,
       "sync_status": "ok",
       "error": ""
     },
@@ -91,7 +91,7 @@
     },
     "drama3": {
       "handle": "@trieuvyreview",
-      "video_count": 90,
+      "video_count": 92,
       "sync_status": "ok",
       "error": ""
     },
@@ -103,13 +103,13 @@
     },
     "drama5": {
       "handle": "@Gado-GadoClips-o1b",
-      "video_count": 668,
+      "video_count": 671,
       "sync_status": "ok",
       "error": ""
     },
     "drama6": {
       "handle": "@sambalclips",
-      "video_count": 648,
+      "video_count": 651,
       "sync_status": "ok",
       "error": ""
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T22:24:43Z",
-  "last_full_refresh_at": "2026-11-06T02:02:00Z",
+  "generated_at": "2026-11-07T02:23:29Z",
+  "last_full_refresh_at": "2026-11-07T02:23:29Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -118,6 +118,104 @@
     }
   },
   "videos": [
+    {
+      "id": "rPBkG46rxLc",
+      "title": "Sếp Cướp Tên 3 Bằng Sáng Chế Của Anh, Chỉ Thưởng 60 Nghìn Tệ, Nào Ngờ Anh Kiện Thắng 770 Nghìn Tệ!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-07T02:00:29Z",
+      "duration_seconds": 5948,
+      "thumbnail_url": "https://i.ytimg.com/vi/rPBkG46rxLc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "8Aydcf0YRQo",
+      "title": "5,5 GIỜ | Thổ Phỉ Xưng Đế - Xuyên Vào Thời Loạn Với Hệ Thống Điển Cố Bá Nghiệp Đánh Giặc Xưng Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-07T01:36:44Z",
+      "duration_seconds": 19926,
+      "thumbnail_url": "https://i.ytimg.com/vi/8Aydcf0YRQo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-mbawVfnotY",
+      "title": "Cường Giả Đột Phá Thất Bại Bất Ngờ Kích Hoạt Hệ Thống Định Mệnh, Một Khi Giác Ngộ Liền Vô Địch!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-07T01:30:30Z",
+      "duration_seconds": 21503,
+      "thumbnail_url": "https://i.ytimg.com/vi/-mbawVfnotY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-SGmDiijjIc",
+      "title": "Phần 11: Từ Đống Xác Trở Lại, Cầm Đao Khuấy Động Giang Hồ, Lật Tung Bàn Cờ",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-07T01:14:52Z",
+      "duration_seconds": 7613,
+      "thumbnail_url": "https://i.ytimg.com/vi/-SGmDiijjIc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-rkW2GtHf90",
+      "title": "Full Version l Tưởng Anh Hận Tôi Thấu Xương, Hóa Ra Anh Lại Yêu Tôi Đến Đau Lòng l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-07T01:00:23Z",
+      "duration_seconds": 7727,
+      "thumbnail_url": "https://i.ytimg.com/vi/-rkW2GtHf90/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "bhsS7Tdh4LM",
+      "title": "P1-2 | 20 GIỜ THỎA MÃN | Ta Đàn Áp Thiên Đường Với Hệ Thống Ác Ma - Thiếu Chủ Phế Vật Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-07T00:35:08Z",
+      "duration_seconds": 71319,
+      "thumbnail_url": "https://i.ytimg.com/vi/bhsS7Tdh4LM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "q86dCSvWkO0",
+      "title": "Mẹ Chồng Đòi Cướp Cua Bố Vợ Gửi, Nào Ngờ Con Trai Phát Hiện Bà Giấu 500 Nghìn Tệ Của Cha Suốt 20 Năm",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-07T00:00:28Z",
+      "duration_seconds": 4471,
+      "thumbnail_url": "https://i.ytimg.com/vi/q86dCSvWkO0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "RQ1HweYjs8I",
       "title": "Chồng Đưa Tình Đầu Đi Du Lịch Cùng Vợ, Còn Lén Chuyển 2 Triệu Tệ, Nào Ngờ Vợ Là Nữ Tổng Tài!",
@@ -3844,20 +3942,6 @@
       ]
     },
     {
-      "id": "n5XdS_JwAzY",
-      "title": "Cô Dâu Ép 4 Bạn Thân Mặc Váy Phù Dâu Rẻ Tiền, Nào Ngờ Họ Bóc Trần Bộ Mặt Thật Khiến Chú Rể Hủy Hôn!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-02T12:00:00Z",
-      "duration_seconds": 5353,
-      "thumbnail_url": "https://i.ytimg.com/vi/n5XdS_JwAzY/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "AEQaqufh_rQ",
       "title": "Dựa Vào Tình Báo Thần Bí, Hắn Biết Trước Mọi Cơ Duyên, Báo Thù Huyết Hận, Đạp Đỉnh Tiên Võ!",
       "channel": "movies2",
@@ -3939,20 +4023,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "XXZH9Y8iPuk",
-      "title": "Bố Giấu 72 Nghìn Tệ Mẹ Kế Gửi Cho Con Gái, Nào Ngờ Cô Phải Dọn Khay Cơm Ở Trường Để Sống Qua Ngày!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-02T11:00:33Z",
-      "duration_seconds": 5925,
-      "thumbnail_url": "https://i.ytimg.com/vi/XXZH9Y8iPuk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -5272,20 +5342,6 @@
       ]
     },
     {
-      "id": "KRAKdfxWXxo",
-      "title": "Phần 15: Tụ Bảo Tiên Bồn - Nhặt Được Chậu Mẻ Có Thể Nâng Cấp Bảo Vật, Ta Nghịch Thiên Cải Mệnh",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-10-31T16:02:12Z",
-      "duration_seconds": 24297,
-      "thumbnail_url": "https://i.ytimg.com/vi/KRAKdfxWXxo/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "xho0Hrda1zs",
       "title": "Ly Cà Phê Em Quên - Bolero Parody",
       "channel": "music",
@@ -5812,20 +5868,6 @@
       "published_at": "2026-10-31T04:49:25Z",
       "duration_seconds": 9409,
       "thumbnail_url": "https://i.ytimg.com/vi/XQux5eyP7GI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "oxOlzYWsaSk",
-      "title": "Phần 10: Từ Đống Xác Trở Lại, Cầm Đao Khuấy Động Giang Hồ, Lật Tung Bàn Cờ",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-10-31T04:02:22Z",
-      "duration_seconds": 7666,
-      "thumbnail_url": "https://i.ytimg.com/vi/oxOlzYWsaSk/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -6881,20 +6923,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "SBTehnz9S8k",
-      "title": "Nhà Họ Mạnh Đuổi Thiên Kim Về Quê Với 500 Nghìn Tệ, Nào Ngờ Cô Là Con Gái Gia Tộc Tỷ Phú Giàu Có",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-10-29T12:00:03Z",
-      "duration_seconds": 7752,
-      "thumbnail_url": "https://i.ytimg.com/vi/SBTehnz9S8k/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -14909,20 +14937,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "Pt6F3EVUnLI",
-      "title": "Phần 14: Tụ Bảo Tiên Bồn - Nhặt Được Chậu Mẻ Có Thể Nâng Cấp Bảo Vật, Ta Nghịch Thiên Cải Mệnh",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-10-18T02:47:32Z",
-      "duration_seconds": 20766,
-      "thumbnail_url": "https://i.ytimg.com/vi/Pt6F3EVUnLI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -25922,20 +25936,6 @@
       "duration_seconds": 3019,
       "thumbnail_url": "https://i.ytimg.com/vi/BcfDZ8SHDyk/maxresdefault.jpg",
       "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "rgTnlrLi-TY",
-      "title": "Gadis Desa Selamatkan CEO Keracunan Dengan Satu Malam, Tak Disangka Dia Memaksa Menikahinya",
-      "channel": "drama6",
-      "channel_title": "Sambal Clips",
-      "published_at": "2026-09-28T04:00:30Z",
-      "duration_seconds": 6151,
-      "thumbnail_url": "https://i.ytimg.com/vi/rgTnlrLi-TY/maxresdefault.jpg",
-      "embeddable": false,
       "kind": "regular",
       "categories": [
         "drama"

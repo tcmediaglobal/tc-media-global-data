@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-08T16:21:41Z",
+  "last_success_at": "2026-11-08T20:46:34Z",
   "last_full_refresh_at": "2026-11-08T02:43:24Z",
   "video_counts": {
     "music": 221,
     "edm": 38,
     "shorts": 354,
-    "cartoon": 2893,
+    "cartoon": 2897,
     "drama": 2017,
     "music_shorts": 354,
     "music_long": 38,
-    "movies": 2893
+    "movies": 2897
   },
   "source_counts": {
     "music": 575,
-    "movies": 483,
-    "movies2": 184,
-    "movies3": 256,
+    "movies": 484,
+    "movies2": 185,
+    "movies3": 257,
     "movies4": 609,
-    "movies5": 154,
+    "movies5": 155,
     "movies6": 590,
-    "movies7": 621,
+    "movies7": 622,
     "drama": 124,
     "drama2": 307,
     "drama3": 109,
@@ -37,19 +37,19 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 483,
+      "video_count": 484,
       "sync_status": "ok",
       "error": ""
     },
     "movies2": {
       "handle": "@ngukiemtv",
-      "video_count": 184,
+      "video_count": 185,
       "sync_status": "ok",
       "error": ""
     },
     "movies3": {
       "handle": "@nao-phang",
-      "video_count": 256,
+      "video_count": 257,
       "sync_status": "ok",
       "error": ""
     },
@@ -61,7 +61,7 @@
     },
     "movies5": {
       "handle": "@linhsanvietsub.official",
-      "video_count": 154,
+      "video_count": 155,
       "sync_status": "ok",
       "error": ""
     },
@@ -73,7 +73,7 @@
     },
     "movies7": {
       "handle": "@taihalephidung",
-      "video_count": 621,
+      "video_count": 622,
       "sync_status": "ok",
       "error": ""
     },

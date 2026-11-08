@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T16:21:41Z",
+  "generated_at": "2026-11-08T20:46:34Z",
   "last_full_refresh_at": "2026-11-08T02:43:24Z",
   "channels": {
     "music": {
@@ -118,6 +118,74 @@
     }
   },
   "videos": [
+    {
+      "id": "8tG8ETAwgBk",
+      "title": "Phần 46: Phàm Nhân Tu Tiên: Không Có Linh Căn Vẫn Có Thể Tu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-08T18:37:31Z",
+      "duration_seconds": 7336,
+      "thumbnail_url": "https://i.ytimg.com/vi/8tG8ETAwgBk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "63g9wXxjzSE",
+      "title": "Phần 46 | Nhất Kiếm Trường Sinh, Vô Linh Chứng Đạo, Lưu Ly Kiếm Tông",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-08T17:16:39Z",
+      "duration_seconds": 7393,
+      "thumbnail_url": "https://i.ytimg.com/vi/63g9wXxjzSE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "lYRTpgkpwZQ",
+      "title": "Đại Kết Cục | Tượng Đất Hóa Thần | Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-08T17:11:02Z",
+      "duration_seconds": 102,
+      "thumbnail_url": "https://i.ytimg.com/vi/lYRTpgkpwZQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": []
+    },
+    {
+      "id": "udFmqSx9_GQ",
+      "title": "Đấng Tối Cao Huyết Tẩy Vĩnh Hằng Tông, Nào Ngờ Ta Triệu Hồi Cửu Âm Đế Một Kiếm Diệt Thần!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-08T17:00:14Z",
+      "duration_seconds": 10050,
+      "thumbnail_url": "https://i.ytimg.com/vi/udFmqSx9_GQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "aicyx5qRWXY",
+      "title": "Phần 46 | BẢN CHUẨN FULL HD | Nhất Kiếm Trường Sinh - Lưu Ly Kiếm Tông",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-08T16:54:28Z",
+      "duration_seconds": 7701,
+      "thumbnail_url": "https://i.ytimg.com/vi/aicyx5qRWXY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "xrtX3KZpimk",
       "title": "Vừa Gia Nhập Tiên Môn, Hắn Kích Hoạt Hệ Thống Dị Giáo, Tu Ma Càng Mạnh, Công Đức Càng Tăng!",
@@ -2206,12 +2274,12 @@
     },
     {
       "id": "mWxBFm2w2Qc",
-      "title": "Tưởng Lấy Phải Chồng Nghèo Chỉ Biết Nhặt Rác, Nào Ngờ Anh Chính Là CEO Giàu Nhất Thành Phố!",
+      "title": "Ai Cũng Cười Cô Nghèo Lấy Chồng Nghèo, Nào Ngờ Anh Là Tỷ Phú Quyền Thế Khiến Cả Thành Phố Kính Sợ!",
       "channel": "drama4",
       "channel_title": "Câu Chuyện Tình Yêu",
       "published_at": "2026-11-06T10:00:30Z",
       "duration_seconds": 3715,
-      "thumbnail_url": "https://i.ytimg.com/vi/mWxBFm2w2Qc/maxresdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/mWxBFm2w2Qc/sddefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [

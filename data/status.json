@@ -1,32 +1,32 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-09T00:36:31Z",
-  "last_full_refresh_at": "2026-11-08T02:43:24Z",
+  "last_success_at": "2026-11-09T07:14:07Z",
+  "last_full_refresh_at": "2026-11-09T07:14:07Z",
   "video_counts": {
     "music": 221,
     "edm": 38,
     "shorts": 354,
-    "cartoon": 2899,
-    "drama": 2020,
+    "cartoon": 2892,
+    "drama": 2029,
     "music_shorts": 354,
     "music_long": 38,
-    "movies": 2899
+    "movies": 2892
   },
   "source_counts": {
     "music": 575,
-    "movies": 484,
-    "movies2": 185,
-    "movies3": 258,
+    "movies": 471,
+    "movies2": 187,
+    "movies3": 259,
     "movies4": 609,
     "movies5": 155,
-    "movies6": 590,
+    "movies6": 593,
     "movies7": 623,
     "drama": 124,
     "drama2": 308,
-    "drama3": 111,
+    "drama3": 115,
     "drama4": 312,
-    "drama5": 685,
-    "drama6": 662
+    "drama5": 687,
+    "drama6": 665
   },
   "sources": {
     "music": {
@@ -37,19 +37,19 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 484,
+      "video_count": 471,
       "sync_status": "ok",
       "error": ""
     },
     "movies2": {
       "handle": "@ngukiemtv",
-      "video_count": 185,
+      "video_count": 187,
       "sync_status": "ok",
       "error": ""
     },
     "movies3": {
       "handle": "@nao-phang",
-      "video_count": 258,
+      "video_count": 259,
       "sync_status": "ok",
       "error": ""
     },
@@ -67,7 +67,7 @@
     },
     "movies6": {
       "handle": "@daudau.vietsub",
-      "video_count": 590,
+      "video_count": 593,
       "sync_status": "ok",
       "error": ""
     },
@@ -91,7 +91,7 @@
     },
     "drama3": {
       "handle": "@trieuvyreview",
-      "video_count": 111,
+      "video_count": 115,
       "sync_status": "ok",
       "error": ""
     },
@@ -103,13 +103,13 @@
     },
     "drama5": {
       "handle": "@Gado-GadoClips-o1b",
-      "video_count": 685,
+      "video_count": 687,
       "sync_status": "ok",
       "error": ""
     },
     "drama6": {
       "handle": "@sambalclips",
-      "video_count": 662,
+      "video_count": 665,
       "sync_status": "ok",
       "error": ""
     }

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T22:11:14Z",
+  "generated_at": "2026-11-11T02:16:30Z",
   "last_full_refresh_at": "2026-11-10T08:50:23Z",
   "channels": {
     "music": {
@@ -118,6 +118,104 @@
     }
   },
   "videos": [
+    {
+      "id": "obqZH8VjoFk",
+      "title": "9 GIỜ THỎA MÃN | Lục Hoàng Tử Ẩn Mình 10 Năm - Hắn Không Còn Giấu Diếm Tài Năng Và Sức Mạnh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-11T02:02:48Z",
+      "duration_seconds": 32497,
+      "thumbnail_url": "https://i.ytimg.com/vi/obqZH8VjoFk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "0a8C_dYbUcg",
+      "title": "Xuyên Không Tu Tiên, Hắn Kích Hoạt Hệ Thống Thức Tỉnh Đạo Thể Bẩm Sinh, Đạp Lên Đỉnh Trường Sinh",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-11T02:00:28Z",
+      "duration_seconds": 18931,
+      "thumbnail_url": "https://i.ytimg.com/vi/0a8C_dYbUcg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "X6WpTHd8nPY",
+      "title": "Bị Cha Cấm Yêu Kẻ Thù Nhà Họ Kỷ, Cô Đòi Chia Tay, Nào Ngờ Tổng Tài Đến Tiệm Hoa Van Xin Được Cưới",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-11T02:00:10Z",
+      "duration_seconds": 7432,
+      "thumbnail_url": "https://i.ytimg.com/vi/X6WpTHd8nPY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Z9A9Paao4CY",
+      "title": "PHẦN 4 | 4,5 GIỜ | VẠN ĐẠO TIÊN BÌNH - Đệ Tử Ngũ Linh Căn Dùng Bình Thần Âm Thầm Tu Luyện",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-11T01:06:18Z",
+      "duration_seconds": 15329,
+      "thumbnail_url": "https://i.ytimg.com/vi/Z9A9Paao4CY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "t3mTkzzoEBo",
+      "title": "Say Rượu Qua Đêm Với Sếp Tổng, Cô Uống Nhầm Thuốc Hết Hạn Rồi Mang Thai, Nào Ngờ Anh Đòi Cưới Ngay",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-11T00:00:20Z",
+      "duration_seconds": 8552,
+      "thumbnail_url": "https://i.ytimg.com/vi/t3mTkzzoEBo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "YvdctaWq4rg",
+      "title": "Phần 5(130): Nghịch Đồ Cầu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-10T23:09:29Z",
+      "duration_seconds": 6775,
+      "thumbnail_url": "https://i.ytimg.com/vi/YvdctaWq4rg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "tpzxVG4wPms",
+      "title": "MÙA 2 | Vạn Cổ Đệ Nhất Phế Tài, Hỗn Độn Tháp Dẫn Ta Tu Tà Đạo | 7 Giờ Thỏa Mãn : D",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-10T23:00:32Z",
+      "duration_seconds": 28126,
+      "thumbnail_url": "https://i.ytimg.com/vi/tpzxVG4wPms/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "q50eHxioj-Q",
       "title": "Phần 9 | Nhất Mộng Thanh Huyền, Tiểu Sư Muội Đoàn Sủng Nhất Kiếm Phá Cửu Thiên",
@@ -1296,7 +1394,7 @@
     },
     {
       "id": "zi7ENS1M_WI",
-      "title": "Ngày Đầu Làm Dâu, Tưởng Cô Yếu Đuối, Nào Ngờ Bình Tĩnh Đối Đầu Sát Thủ, Khiến Nhà Chồng Kinh Ngạc!",
+      "title": "Ngày Đầu Làm Dâu Tưởng Dễ Bắt Nạt, Nào Ngờ Cô Là Cao Thủ Khiến Cả Nhà Chồng Khiếp Sợ!",
       "channel": "drama4",
       "channel_title": "Câu Chuyện Tình Yêu",
       "published_at": "2026-11-09T10:44:36Z",

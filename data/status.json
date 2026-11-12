@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-12T13:18:02Z",
+  "last_success_at": "2026-11-12T21:07:27Z",
   "last_full_refresh_at": "2026-11-12T13:18:02Z",
   "video_counts": {
     "music": 221,
     "edm": 38,
     "shorts": 354,
-    "cartoon": 2972,
-    "drama": 2060,
+    "cartoon": 2973,
+    "drama": 2061,
     "music_shorts": 354,
     "music_long": 38,
-    "movies": 2972
+    "movies": 2973
   },
   "source_counts": {
     "music": 575,
-    "movies": 508,
+    "movies": 509,
     "movies2": 191,
     "movies3": 274,
     "movies4": 602,
@@ -25,7 +25,7 @@
     "drama2": 314,
     "drama3": 105,
     "drama4": 314,
-    "drama5": 710,
+    "drama5": 711,
     "drama6": 673
   },
   "sources": {
@@ -37,7 +37,7 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 508,
+      "video_count": 509,
       "sync_status": "ok",
       "error": ""
     },
@@ -103,7 +103,7 @@
     },
     "drama5": {
       "handle": "@Gado-GadoClips-o1b",
-      "video_count": 710,
+      "video_count": 711,
       "sync_status": "ok",
       "error": ""
     },

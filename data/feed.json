@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-12T21:07:27Z",
+  "generated_at": "2026-11-13T02:09:14Z",
   "last_full_refresh_at": "2026-11-12T13:18:02Z",
   "channels": {
     "music": {
@@ -118,6 +118,118 @@
     }
   },
   "videos": [
+    {
+      "id": "OnmB-3njWXw",
+      "title": "[FULL 9H] NỮ ĐẾ PHẾ TA SỦNG ÁI NHÂN TÌNH, NGÀY TA XƯNG ĐẾ NÀNG QUỲ GỐI CẦU XIN | LY VIETSUB 3906",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-13T02:01:07Z",
+      "duration_seconds": 32297,
+      "thumbnail_url": "https://i.ytimg.com/vi/OnmB-3njWXw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "pzJTO0Po-8I",
+      "title": "Bạn Trai Đeo Nhẫn Cho Nữ Sinh Ngay Trước Mặt Cô, Nào Ngờ Cô Nghỉ Việc Chia Tay Khiến Anh Phát Điên",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-13T02:00:38Z",
+      "duration_seconds": 11303,
+      "thumbnail_url": "https://i.ytimg.com/vi/pzJTO0Po-8I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "t3vI-11WEzw",
+      "title": "P1-4 | 11 GIỜ THỎA MÃN | Thái Cổ Long Đế - Thiếu Gia Tu Tiên Phế Vật - Kích Hoạt Huyết Mạch Thần Cấp",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-13T01:43:31Z",
+      "duration_seconds": 39145,
+      "thumbnail_url": "https://i.ytimg.com/vi/t3vI-11WEzw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Ejy99qOmh9A",
+      "title": "PHẦN 4 | Tam Hoàng Tử Lưu Đày, Hệ Thống Triệu Hồi Thần Tướng, Dẹp Loạn Quân Giặc Lập Đại Chiến Công",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-13T01:15:12Z",
+      "duration_seconds": 11423,
+      "thumbnail_url": "https://i.ytimg.com/vi/Ejy99qOmh9A/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "jx-c1VRNkPo",
+      "title": "Phần 5 -P5(630): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-13T00:52:29Z",
+      "duration_seconds": 2909,
+      "thumbnail_url": "https://i.ytimg.com/vi/jx-c1VRNkPo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "YL7xVSLKAis",
+      "title": "Bị Vu Mang Thai Con Hoang, Nữ Thư Ký Được Tổng Tài Công Khai Nhận Vợ, Nào Ngờ Còn Mang Song Thai",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-13T00:00:06Z",
+      "duration_seconds": 7248,
+      "thumbnail_url": "https://i.ytimg.com/vi/YL7xVSLKAis/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "HPEYnqFDUkI",
+      "title": "Phần 1: Trấn Áp Chư Thiên Bắt Đầu Từ Việc Liên Kết Hệ Thống Phản Phái",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-12T23:36:39Z",
+      "duration_seconds": 21311,
+      "thumbnail_url": "https://i.ytimg.com/vi/HPEYnqFDUkI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9b9DHyhyJc8",
+      "title": "Chồng Dọa Cắt Hết Tiền Nếu Ly Hôn, Vợ Trọng Sinh Tự Kiếm Tiền Khiến Anh Lo Sợ Mất Cô Mãi Mãi",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-12T22:30:18Z",
+      "duration_seconds": 13729,
+      "thumbnail_url": "https://i.ytimg.com/vi/9b9DHyhyJc8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "YikrLNUqf4Q",
       "title": "P1-2 | 9,5 GIỜ THỎA MÃN | Bàn Long Thần Ấn - Ai Nói Đệ Tử Tạp Dịch Phế Linh Căn Không Thể Tu Tiên",

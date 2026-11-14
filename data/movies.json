@@ -1,6 +1,118 @@
 {
-  "generated_at": "2026-11-14T12:30:56Z",
+  "generated_at": "2026-11-14T18:30:05Z",
   "videos": [
+    {
+      "id": "iN1vHkrJ6bs",
+      "title": "Phần 6 | Sơn Tặc Xuyên Không Đi Tu Tiên, Ta Dùng Võ Thần Quyết Quậy Tung Tu Tiên Giới",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-14T17:20:43Z",
+      "duration_seconds": 7634,
+      "thumbnail_url": "https://i.ytimg.com/vi/iN1vHkrJ6bs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "cLHOPm1X2_E",
+      "title": "Phần 9: Ngũ Linh Căn Tu Tiên, Ta Có Một Không Gian Thôn Phệ",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-14T16:35:44Z",
+      "duration_seconds": 7385,
+      "thumbnail_url": "https://i.ytimg.com/vi/cLHOPm1X2_E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "kJkFIaQpe34",
+      "title": "Phần 9 | Hồng Mông Không Gian Luyện Hóa Vạn Vật, Đệ Tử Linh Căn Phàm Phẩm Trở Thành Cường Giả",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-14T14:06:57Z",
+      "duration_seconds": 7760,
+      "thumbnail_url": "https://i.ytimg.com/vi/kJkFIaQpe34/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "PDbVj0DPJgc",
+      "title": "Phần 4-  P5(400): Sinh Ra Mang Lời Nguyền Chết Yểu, Ta Tu Luyện Để Đoạt Lại Trường Sinh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-14T13:46:48Z",
+      "duration_seconds": 3091,
+      "thumbnail_url": "https://i.ytimg.com/vi/PDbVj0DPJgc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Tvo8iDqFm9Q",
+      "title": "14,5 GIỜ THỎA MÃN | Tạp Dịch Phế Linh Căn Tu Tiên - Vạc Thần Luyện Hóa Khí Huyết Thành Đan Dược",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-14T13:21:08Z",
+      "duration_seconds": 51810,
+      "thumbnail_url": "https://i.ytimg.com/vi/Tvo8iDqFm9Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-SAJ0bVL4Bk",
+      "title": "Full | Kẻ Biến Thái Làm Trùm Rạp Chiếu Phim Biến Phó Bản Tử Thần Thành Sân Khấu Thao Túng Ác Quỷ",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-14T13:00:34Z",
+      "duration_seconds": 12670,
+      "thumbnail_url": "https://i.ytimg.com/vi/-SAJ0bVL4Bk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "AFVS8jA5Neg",
+      "title": "Phần 5 -P7(740): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-14T12:47:48Z",
+      "duration_seconds": 3036,
+      "thumbnail_url": "https://i.ytimg.com/vi/AFVS8jA5Neg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-gAqKXb3NTY",
+      "title": "5 GIỜ | Xuyên Làm Tốt Thí - Hệ Thống Tu Luyện Chiến Trường - Trở Thành Thần Chiến Tranh Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-14T12:34:08Z",
+      "duration_seconds": 18110,
+      "thumbnail_url": "https://i.ytimg.com/vi/-gAqKXb3NTY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "qRsuS5uBRk8",
       "title": "Xuyên Không Thời Loạn, Thức Tỉnh Hệ Thống Ghép Nhóm, Mỗi Người Thêm 100 Cân Sức Mạnh | FULL MÙA 2",
@@ -2984,20 +3096,6 @@
       ]
     },
     {
-      "id": "c4ezHwTCYAc",
-      "title": "Hệ Thống Sư Đồ - Đệ Tử Phế Vật Hệ Thống Thưởng Điểm Cường Hóa Khiến Ta Thành Bất Tử",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-11-08T06:30:03Z",
-      "duration_seconds": 7977,
-      "thumbnail_url": "https://i.ytimg.com/vi/c4ezHwTCYAc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "m2zgwCKYTis",
       "title": "Phần 8: Sư Phụ Vừa Mất, Ta Thức Tỉnh Hệ Thống Đưa Tông Môn Tàn Lụi Thành Tiên Môn",
       "channel": "movies3",
@@ -4636,20 +4734,6 @@
       ]
     },
     {
-      "id": "12pFbUTyqT0",
-      "title": "7 GIỜ | Thiếu Tướng Quân Lưu Đày - Dùng Sức Mạnh Cùng Mưu Lược Ép 16 Tiểu Quốc Phải Phục Tùng",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-11-04T09:24:00Z",
-      "duration_seconds": 24286,
-      "thumbnail_url": "https://i.ytimg.com/vi/12pFbUTyqT0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "zo2eWe3cMo4",
       "title": "[FULL S1-2] HỆ THỐNG ĐẠI PHẢN PHÁI, CÀNG TRÊU GHẸO SƯ TÔN TA CÀNG MẠNH | LY VIETSUB 1000",
       "channel": "movies4",
@@ -4755,20 +4839,6 @@
       "published_at": "2026-11-04T05:00:16Z",
       "duration_seconds": 4870,
       "thumbnail_url": "https://i.ytimg.com/vi/KgnAkYFYbf0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "W6sB3iKY5m4",
-      "title": "P1-2 | 5 GIỜ | Vạn Thần Đỉnh - Thiếu Chủ Phế Vật Bị Nữ Đế Song Tu - Kích Hoạt Thần Đỉnh Tu Luyện",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-11-04T04:20:26Z",
-      "duration_seconds": 16791,
-      "thumbnail_url": "https://i.ytimg.com/vi/W6sB3iKY5m4/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -5833,20 +5903,6 @@
       "published_at": "2026-11-01T04:00:28Z",
       "duration_seconds": 5411,
       "thumbnail_url": "https://i.ytimg.com/vi/9b02A3Sls_8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "-b6nXHBuDR4",
-      "title": "P1-3 | 6,5 GIỜ | Hệ Thống Muộn 8000 Năm - Sắp Cạn Thọ Nguyên Ta Trở Lại Trấn Áp Vạn Đế",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-11-01T03:42:35Z",
-      "duration_seconds": 22778,
-      "thumbnail_url": "https://i.ytimg.com/vi/-b6nXHBuDR4/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -8437,20 +8493,6 @@
       "published_at": "2026-10-25T08:49:18Z",
       "duration_seconds": 115343,
       "thumbnail_url": "https://i.ytimg.com/vi/9ryz6V1GeOM/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "-uCI2r3T2GQ",
-      "title": "Phần 3 | 6 GIỜ  | Xuyên Game Tu Tiên, Chỉ Mình Ta Có Thể Nạp Thẻ Vô Hạn",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-10-25T08:13:03Z",
-      "duration_seconds": 21283,
-      "thumbnail_url": "https://i.ytimg.com/vi/-uCI2r3T2GQ/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -13925,20 +13967,6 @@
       "published_at": "2026-10-06T02:52:30Z",
       "duration_seconds": 7464,
       "thumbnail_url": "https://i.ytimg.com/vi/ebM310-Tpe8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "UEg2fopP2tY",
-      "title": "Phần 2 | Xuyên Không 8000 Năm Thành Đại Đế, Đến Lúc Sắp Chết Hệ Thống Mới Xuất Hiện!",
-      "channel": "movies5",
-      "channel_title": "Linh San Vietsub",
-      "published_at": "2026-10-06T02:31:38Z",
-      "duration_seconds": 7865,
-      "thumbnail_url": "https://i.ytimg.com/vi/UEg2fopP2tY/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T02:23:14Z",
+  "generated_at": "2026-11-17T11:11:54Z",
   "last_full_refresh_at": "2026-11-17T02:23:14Z",
   "channels": {
     "music": {
@@ -118,6 +118,398 @@
     }
   },
   "videos": [
+    {
+      "id": "IScGlqoWKmM",
+      "title": "Cô Vợ Dành Nửa Năm Yêu Chồng Trong Hôn Nhân Giả, Nào Ngờ Khi Cô Đòi Ly Hôn Anh Mới Thấy Hụt Hẫng",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-17T11:00:37Z",
+      "duration_seconds": 6086,
+      "thumbnail_url": "https://i.ytimg.com/vi/IScGlqoWKmM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "29u23MvgKeU",
+      "title": "Hari Pertama Kerja, Pelayan Kamar Rela Serahkan Keperawanan Demi Pria Dibius, Ternyata Miliarder",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-17T11:00:35Z",
+      "duration_seconds": 5980,
+      "thumbnail_url": "https://i.ytimg.com/vi/29u23MvgKeU/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "klLVVLJ6TD4",
+      "title": "Đầu Bếp Thần Thức Tỉnh Hệ Thống Thần Trù Chữa Lành Trái Tim Đại Tiểu Thư  | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-17T11:00:06Z",
+      "duration_seconds": 9169,
+      "thumbnail_url": "https://i.ytimg.com/vi/klLVVLJ6TD4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-GWcIezW9hE",
+      "title": "5 GIỜ | Thiếu Chủ Bị Hủy Hôn - Hệ Thống Sao Chép Tu Vi - Một Mình Ta Cân Cả Thiên Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T10:53:29Z",
+      "duration_seconds": 17430,
+      "thumbnail_url": "https://i.ytimg.com/vi/-GWcIezW9hE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Mr43qgvFXFc",
+      "title": "3 GIỜ | Hệ Thống Nạp Tiền Vô Hạn - Từ Đáy Xã Hội Ta Trở Thành Thần Thánh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T10:10:38Z",
+      "duration_seconds": 11175,
+      "thumbnail_url": "https://i.ytimg.com/vi/Mr43qgvFXFc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "k5fV_zwq7ow",
+      "title": "Toàn Dân Ngự Thú: Ký Khế Ước Với Phế Phẩm Ta Thức Tỉnh Hệ Thống Phản Tổ Thần Thú | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-17T10:00:34Z",
+      "duration_seconds": 9755,
+      "thumbnail_url": "https://i.ytimg.com/vi/k5fV_zwq7ow/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "oKQ_FCDfVBc",
+      "title": "Pemuda Utang Judi, Kaki Tangan Lumpuh, Dibuang! Raja Judi Menyamar Ajari 99 Jurus, Balas Dendam!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-17T10:00:05Z",
+      "duration_seconds": 3386,
+      "thumbnail_url": "https://i.ytimg.com/vi/oKQ_FCDfVBc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "dQJyzTRmbtQ",
+      "title": "Pemuda Yatim Berguru Di Gunung, Dilatih Leluhur Jadi Dewa Perang, Lalu Disuruh Turun Cari Istri",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-17T10:00:05Z",
+      "duration_seconds": 2166,
+      "thumbnail_url": "https://i.ytimg.com/vi/dQJyzTRmbtQ/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "V5ESpsyqMU0",
+      "title": "CEO Đòi Ly Hôn Vì Tình Cũ Mang Thai, Nào Ngờ Vợ Bỏ Đi Khiến Anh Hối Hận Và Điên Cuồng Níu Kéo Cô",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-17T09:45:05Z",
+      "duration_seconds": 9774,
+      "thumbnail_url": "https://i.ytimg.com/vi/V5ESpsyqMU0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "wREX_iVXc0o",
+      "title": "3,5 GIỜ | Trưởng Lão Phế Tu Vi - Hệ Thống Thu Đồ Hoàn Trả 10 Lần Tu Vi - Vạn Điểm Thuộc Tính",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T09:27:02Z",
+      "duration_seconds": 12132,
+      "thumbnail_url": "https://i.ytimg.com/vi/wREX_iVXc0o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "MNi2QHoqY2Q",
+      "title": "Phần 7-8 | Hệ Thống Vô Hạn Thọ Nguyên Đổi Lấy Bảo Vật, Phàm Nhân Tu Thành Đại Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T08:27:56Z",
+      "duration_seconds": 17866,
+      "thumbnail_url": "https://i.ytimg.com/vi/MNi2QHoqY2Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ViPu4_RZB2Y",
+      "title": "17,5 GIỜ THỎA MÃN | Hoàng Đế Giả Nghèo Dạy Cháu - Nào Ngờ Nó Là Thiên Tài Xuyên Không Có Hệ Thống",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T07:29:16Z",
+      "duration_seconds": 62049,
+      "thumbnail_url": "https://i.ytimg.com/vi/ViPu4_RZB2Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "fACQPUQ7MgI",
+      "title": "P1-2 | 5 GIỜ | Nghịch Chuyển Nhân Quả - Đệ Tử Luyện Khí Nhưng Đại Đế Cũng Phải Cúi Đầu Van Xin",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T06:30:28Z",
+      "duration_seconds": 17163,
+      "thumbnail_url": "https://i.ytimg.com/vi/fACQPUQ7MgI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "LnPDPUKkXRw",
+      "title": "Cô Gái Bị Bạn Trai Phản Bội Ngay Tiệc Sinh Nhật, Nào Ngờ Người Cưới Cô Là CEO Thầm Yêu Từ Cấp Ba",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-17T06:15:37Z",
+      "duration_seconds": 8294,
+      "thumbnail_url": "https://i.ytimg.com/vi/LnPDPUKkXRw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "aMZ61ML15YI",
+      "title": "Pengemis Kehilangan Kultivasi Dan Dibuang Jurang, Tak Disangka Raja Kera Tua Melatihnya Jadi Murid",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-17T05:00:18Z",
+      "duration_seconds": 6730,
+      "thumbnail_url": "https://i.ytimg.com/vi/aMZ61ML15YI/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "K-yNCoplZb4",
+      "title": "Dewa Perang Turun Gunung Diajak 2 CEO Wanita Minum! Lihat 2 Gadis Dibully Preman, Ia Hajar Semua!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-17T05:00:07Z",
+      "duration_seconds": 5813,
+      "thumbnail_url": "https://i.ytimg.com/vi/K-yNCoplZb4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "__oo8vfmWYQ",
+      "title": "Sinh Tồn Hoang Đảo Cùng Dàn Tiểu Thư Vô Ơn | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-17T05:00:03Z",
+      "duration_seconds": 10036,
+      "thumbnail_url": "https://i.ytimg.com/vi/__oo8vfmWYQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "JGMEpTCyGfI",
+      "title": "6,5 GIỜ | Thiếu Gia Phế Vật Sau 1 Đêm Hóa Chiến Thần - Dùng Võ Thuật Hạ Gục Mọi Võ Tướng Quân Doanh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T04:28:00Z",
+      "duration_seconds": 22903,
+      "thumbnail_url": "https://i.ytimg.com/vi/JGMEpTCyGfI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "_GlHnA7O7Wk",
+      "title": "Full Mùa 2 | Sở Hữu Hệ Thống Cường Hóa Vô Hạn Tôi Khiến Nữ Lãnh Chúa Tinh Linh Tranh Giành",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-17T04:00:30Z",
+      "duration_seconds": 8125,
+      "thumbnail_url": "https://i.ytimg.com/vi/_GlHnA7O7Wk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "g5ZcUPueINk",
+      "title": "Gadis Cilik Diam Diam Ikuti Putri Kesembilan Pecahkan Kasus! Baca Pikiran, Bongkar Intrik Kerajaan!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-17T04:00:27Z",
+      "duration_seconds": 3967,
+      "thumbnail_url": "https://i.ytimg.com/vi/g5ZcUPueINk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "9ZaqvrdNoeY",
+      "title": "Cô Gái Cưới Anh Tài Xế Ngay Sau Buổi Xem Mắt, Nào Ngờ Chồng Là CEO Thịnh Viễn Khiến Cả Nhà Sững Sờ",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-17T04:00:17Z",
+      "duration_seconds": 13742,
+      "thumbnail_url": "https://i.ytimg.com/vi/9ZaqvrdNoeY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Y8dPCGBBH1c",
+      "title": "Penjual Bakpao Lajang Hampir 40 Rela Serahkan Diri Demi Selamatkan Pemuda, Jadi Istri Miliarder",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-17T04:00:07Z",
+      "duration_seconds": 5489,
+      "thumbnail_url": "https://i.ytimg.com/vi/Y8dPCGBBH1c/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "V_m3EntZZt0",
+      "title": "8 GIỜ THỎA MÃN | SSS+ 1 Tỷ Đòn Tấn Công 1 Giây - Thần Thánh Cũng Không Thể Chịu Nổi",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T03:52:40Z",
+      "duration_seconds": 29121,
+      "thumbnail_url": "https://i.ytimg.com/vi/V_m3EntZZt0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "RXoaJZk_BWI",
+      "title": "Xuyên Không Vào Gia Tộc Toàn Là Đại Đế (MÙA 1+2) Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-17T03:30:18Z",
+      "duration_seconds": 16501,
+      "thumbnail_url": "https://i.ytimg.com/vi/RXoaJZk_BWI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "dKXsm1713Sw",
+      "title": "Pemuda Petik Buah Roh demi Kekasih, Dituduh Pencuri! Ternyata Tabib Sakti Penyelamat Dewa Perang!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-17T03:00:39Z",
+      "duration_seconds": 3912,
+      "thumbnail_url": "https://i.ytimg.com/vi/dKXsm1713Sw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "gahHvURHjc8",
+      "title": "Toàn Dân Sinh Tồn: Mang Tri Thức Hiện Đại Thống Trị Tiền Sử  | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-17T03:00:33Z",
+      "duration_seconds": 9043,
+      "thumbnail_url": "https://i.ytimg.com/vi/gahHvURHjc8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "DWlvWAY5Pm0",
+      "title": "Pengemis Turun Gunung Perbaiki Mobil CEO Tanpa Dibayar, Ternyata Dewa Perang Penyelamat Keluarganya",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-17T03:00:09Z",
+      "duration_seconds": 6793,
+      "thumbnail_url": "https://i.ytimg.com/vi/DWlvWAY5Pm0/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "1M6zJmQq-Og",
+      "title": "PHẦN 7 | Thiên Phú SSS+ Vô Hạn Sát Thương Độc Tố - Phế Vật Trở Thành Top 1 Server",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T02:52:49Z",
+      "duration_seconds": 11332,
+      "thumbnail_url": "https://i.ytimg.com/vi/1M6zJmQq-Og/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "Eeu0EULUaiE",
       "title": "[S2 FULL 8H] BỊ TỪ HÔN, TA THU PHỤC LUÔN MẸ VỢ LÀM NÔ TỲ! | LY VIETSUB 1292",

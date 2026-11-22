@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-22T07:29:44Z",
+  "generated_at": "2026-11-22T15:41:25Z",
   "last_full_refresh_at": "2026-11-21T20:14:50Z",
   "channels": {
     "music": {
@@ -118,6 +118,300 @@
     }
   },
   "videos": [
+    {
+      "id": "P1bNj8iQh6Y",
+      "title": "Phần 6 | Loạn Thế Biên Quân: Thư Sinh Nhân Đồ",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-22T14:53:01Z",
+      "duration_seconds": 9310,
+      "thumbnail_url": "https://i.ytimg.com/vi/P1bNj8iQh6Y/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "BACvVy_ddoo",
+      "title": "7,5 GIỜ | Xuyên Làm Thái Tử Phu Quân Bị Coi Thường - Dùng Kiến Thức Giành Lấy Quyền Lực Tối Thượng",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-22T13:30:23Z",
+      "duration_seconds": 26210,
+      "thumbnail_url": "https://i.ytimg.com/vi/BACvVy_ddoo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "0jK99IpiUuE",
+      "title": "Tiểu Sư Đệ Tông Môn - Hắn Mới Là Kẻ Mạnh Nhất - Hệ Thống Lựa Chọn Thần Cấp Mặc Nhiên Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-22T12:48:08Z",
+      "duration_seconds": 9224,
+      "thumbnail_url": "https://i.ytimg.com/vi/0jK99IpiUuE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Q7RuSFCZz0U",
+      "title": "Pemuda Penggembala Sapi Miskin Pungut Ranting dari Langit! Ternyata Pusaka Sakti, Jadi Dewa Perang!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-22T12:30:23Z",
+      "duration_seconds": 5190,
+      "thumbnail_url": "https://i.ytimg.com/vi/Q7RuSFCZz0U/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "v3WBU19wo7E",
+      "title": "Sinh Tồn Khu Dân Cư: Xây Nơi Trú Ẩn Bằng Từ Khóa | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-22T12:00:37Z",
+      "duration_seconds": 13448,
+      "thumbnail_url": "https://i.ytimg.com/vi/v3WBU19wo7E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "oNbfOfbiRYM",
+      "title": "Cô Vợ Chờ Ly Hôn Để Nhận 50 Triệu Từ CEO Lạnh Lùng, Nào Ngờ Anh Ghen Điên Cuồng Khi Cô Muốn Rời Đi",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-22T12:00:02Z",
+      "duration_seconds": 4690,
+      "thumbnail_url": "https://i.ytimg.com/vi/oNbfOfbiRYM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "V8u9qkypH1A",
+      "title": "17 GIỜ THỎA MÃN | Xuyên Về Cổ Đại - Dùng Kiến Thức Hiện Đại Làm Cố Vấn Quân Sự Dẹp Loạn Biên Ải",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-22T11:57:20Z",
+      "duration_seconds": 59856,
+      "thumbnail_url": "https://i.ytimg.com/vi/V8u9qkypH1A/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "-5r8apBSt98",
+      "title": "Saat Nikah, Pria Jemput Cinta Pertama! Wanita Batalkan Nikah, Tarik Aset, Keluarganya Jatuh Miskin!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-22T11:30:26Z",
+      "duration_seconds": 4548,
+      "thumbnail_url": "https://i.ytimg.com/vi/-5r8apBSt98/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "G1x8LbXZKQA",
+      "title": "Vị Hôn Phu Ngoại Tình Với Em Gái, Cô Vào Nhầm Phòng CEO Quyền Lực, Nào Ngờ Anh Lại Cưng Chiều Cô",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-22T11:00:29Z",
+      "duration_seconds": 9168,
+      "thumbnail_url": "https://i.ytimg.com/vi/G1x8LbXZKQA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "l8SFkmAfv0w",
+      "title": "Nguyền Sư Đoản Mệnh Hóa Thần Cấm Chú: Một Chiêu San Phẳng Cả Bí Cảnh | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-22T11:00:14Z",
+      "duration_seconds": 12308,
+      "thumbnail_url": "https://i.ytimg.com/vi/l8SFkmAfv0w/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "uyYQYzC8NQ0",
+      "title": "Suami Ditipu Saat Main Kartu Hingga Bangkrut, Tak Disangka Istrinya Dewa Judi Misterius Yang Kembali",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-22T11:00:01Z",
+      "duration_seconds": 4842,
+      "thumbnail_url": "https://i.ytimg.com/vi/uyYQYzC8NQ0/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "YuWYeUHWBPQ",
+      "title": "PHẦN 5 - TẬP 8 | BẢN ĐẸP | Thiên Đạo Sụp Đổ - Từ Phàm Nhân Ta Nghịch Thiên Tu Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-22T10:59:05Z",
+      "duration_seconds": 2000,
+      "thumbnail_url": "https://i.ytimg.com/vi/YuWYeUHWBPQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "TWI1kmSWqdY",
+      "title": "[FULL S4] NỮ ĐẾ PHẾ TA SỦNG ÁI NHÂN TÌNH, NGÀY TA XƯNG ĐẾ NÀNG QUỲ GỐI CẦU XIN | LY VIETSUB 3906",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-22T10:49:53Z",
+      "duration_seconds": 5764,
+      "thumbnail_url": "https://i.ytimg.com/vi/TWI1kmSWqdY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "OXsYAmkFaSc",
+      "title": "Sư Phụ Ngủ Say Vạn Năm Thành Tuyệt Thế Kiếm Đế - Trở Về Tông Môn Nào Ngờ Bị Coi Thường",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-22T10:30:34Z",
+      "duration_seconds": 8090,
+      "thumbnail_url": "https://i.ytimg.com/vi/OXsYAmkFaSc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Pi4lxCJ8lIU",
+      "title": "CEO Jadi Ikan Mas Raksasa, Sengaja Gigit Kail Ahli demi Poin Evolusi, Jadi Naga untuk Balas Dendam!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-22T10:00:37Z",
+      "duration_seconds": 3720,
+      "thumbnail_url": "https://i.ytimg.com/vi/Pi4lxCJ8lIU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "jb_TcFNxttY",
+      "title": "Cứu Hồ Ly Được Ban Mắt Thấu Thị Ta Thành Bá Chủ Rừng Sâu | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-22T10:00:33Z",
+      "duration_seconds": 5698,
+      "thumbnail_url": "https://i.ytimg.com/vi/jb_TcFNxttY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "a9BftdsmY9o",
+      "title": "Bos Pura-Pura Miskin Pergoki Istri Selingkuh, Diam-Diam Balas Dendam Hingga Istrinya Jadi Pengemis",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-22T10:00:19Z",
+      "duration_seconds": 6027,
+      "thumbnail_url": "https://i.ytimg.com/vi/a9BftdsmY9o/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "HaitvRHoo0k",
+      "title": "Cô Gái Cưới Nhân Viên Bình Thường Theo Hợp Đồng, Nào Ngờ Chồng Là CEO Mạnh Thị Vẫn Giấu Thân Phận",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-22T09:45:31Z",
+      "duration_seconds": 7940,
+      "thumbnail_url": "https://i.ytimg.com/vi/HaitvRHoo0k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "fWEVqr3pbWE",
+      "title": "4,5 GIỜ | Thái Tử Phế Vật Đột Nhiên Sở Hữu Thân Thể Đao Thương Bất Nhập Cùng Trí Tuệ Thiên Tài",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-22T09:25:46Z",
+      "duration_seconds": 16562,
+      "thumbnail_url": "https://i.ytimg.com/vi/fWEVqr3pbWE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "TQuRWEsthrc",
+      "title": "Phần 5 | Loạn Thế Biên Quân: Thư Sinh Nhân Đồ",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-22T09:12:26Z",
+      "duration_seconds": 9697,
+      "thumbnail_url": "https://i.ytimg.com/vi/TQuRWEsthrc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "j5d8ZUpnswA",
+      "title": "P1-2 | 5,5 GIỜ | Thiếu Gia Phế Vật Nhập Môn - Hệ Thống Thiên Đạo - Ta Âm Thầm Tu Luyện Thành Bất Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-22T08:27:07Z",
+      "duration_seconds": 18692,
+      "thumbnail_url": "https://i.ytimg.com/vi/j5d8ZUpnswA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "uihS5zhAKBs",
       "title": "Thu 1 Đệ Tử Lại Nhận Thêm 1 Hệ Thống - Đệ Tử Nhận Đều Đạt Sức Mạnh Cấp Thần",

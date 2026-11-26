@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-26T04:05:05Z",
+  "generated_at": "2026-11-26T14:29:36Z",
   "last_full_refresh_at": "2026-11-26T04:05:05Z",
   "channels": {
     "music": {
@@ -118,6 +118,412 @@
     }
   },
   "videos": [
+    {
+      "id": "fz0jX--93a0",
+      "title": "3,5 GIỜ | Đệ Tử Phế Nhất Tông Môn - Hệ Thống Thần Hào - Càng Tiêu Linh Thạch Ta Càng Mạnh Mẽ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T13:28:08Z",
+      "duration_seconds": 11774,
+      "thumbnail_url": "https://i.ytimg.com/vi/fz0jX--93a0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "qg5XHQhA80o",
+      "title": "9 GIỜ THỎA MÃN | Hỗn Mang Giám Ngục - Thiếu Gia Phế Vật Có Ngục Thần Giam Giữ Toàn Đại Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T12:50:46Z",
+      "duration_seconds": 32439,
+      "thumbnail_url": "https://i.ytimg.com/vi/qg5XHQhA80o/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "xh9Gr-wsjfg",
+      "title": "Phần 6-P5: Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-26T12:46:07Z",
+      "duration_seconds": 2708,
+      "thumbnail_url": "https://i.ytimg.com/vi/xh9Gr-wsjfg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Owa5bFXCf9I",
+      "title": "Anak Imut Bawa Ayah Nganggur Kencan Buta Cari Ibu! CEO Itu Ternyata Istrinya 3000 Tahun Lalu!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-26T12:30:27Z",
+      "duration_seconds": 3889,
+      "thumbnail_url": "https://i.ytimg.com/vi/Owa5bFXCf9I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "7KqH4BGEHs8",
+      "title": "PHẦN 2 | BẢN ĐẸP | Đế Thể Bất Bại - Thiếu Chủ Bị Hủy Hôn Kích Hoạt Thánh Thể Thành Đại Đế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T12:14:17Z",
+      "duration_seconds": 11038,
+      "thumbnail_url": "https://i.ytimg.com/vi/7KqH4BGEHs8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "4KdB5V8WFgs",
+      "title": "Mạt Thế Thức Tỉnh Hệ Thống Nấu Ăn Cấp C Tôi Biến Zombie Vương SSS Thành Nhân Viên | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-26T12:00:32Z",
+      "duration_seconds": 4166,
+      "thumbnail_url": "https://i.ytimg.com/vi/4KdB5V8WFgs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "MCvSB7b0IIk",
+      "title": "P1-2 | 4,5 GIỜ | Luân Hồi Điện Chủ Làm Tạp Dịch - Hệ Thống Vạn Giới Tối Cường - Càng Đánh Càng Mạnh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T11:42:17Z",
+      "duration_seconds": 15949,
+      "thumbnail_url": "https://i.ytimg.com/vi/MCvSB7b0IIk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "5dLERCOPrtc",
+      "title": "CEO Pulang Desa Digigit Anjing, Baju Robek! Pengemis Menolong, Ia Mau Menikahinya demi Balas Budi!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-26T11:30:05Z",
+      "duration_seconds": 5966,
+      "thumbnail_url": "https://i.ytimg.com/vi/5dLERCOPrtc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "Vx7iUvuBRvI",
+      "title": "Pengemis Tersesat Di Gua Kuno, Temukan Kitab Sakti, Dewa Gajah Jadikan Dia Dewa Perang Terkuat",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-26T11:00:35Z",
+      "duration_seconds": 6145,
+      "thumbnail_url": "https://i.ytimg.com/vi/Vx7iUvuBRvI/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "jXvLsw32LWU",
+      "title": "Sinh Tồn Giữa Sương Xám Tôi Xây Căn Cứ Săn Dị Vật Và Đối Đầu Kẻ Mạo Danh | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-26T11:00:07Z",
+      "duration_seconds": 11145,
+      "thumbnail_url": "https://i.ytimg.com/vi/jXvLsw32LWU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "8CDPAZheT48",
+      "title": "5 GIỜ | Lính Đặc Công Xuyên Không Làm Tốt Thí - Dùng Sức Mạnh Cùng Trí Tuệ Lập Công Nơi Biên Ải",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T10:55:32Z",
+      "duration_seconds": 17635,
+      "thumbnail_url": "https://i.ytimg.com/vi/8CDPAZheT48/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "eI5MQ_NSO8k",
+      "title": "3 GIỜ | Từ Tên Quét Rác Tông Môn Trở Thành Đại Đế - Hệ Thống Vạn Lần Nhân Quả Phản Chuyển",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T10:16:07Z",
+      "duration_seconds": 10918,
+      "thumbnail_url": "https://i.ytimg.com/vi/eI5MQ_NSO8k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9mFyHIO360g",
+      "title": "Ibu Hamil Pecah Ketuban Minta Tolong Sopir Taksi! Dewa Balap Bawa Mobil Tua Salip Raja Balap ke IGD!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-26T10:05:02Z",
+      "duration_seconds": 4913,
+      "thumbnail_url": "https://i.ytimg.com/vi/9mFyHIO360g/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "DpNx1LO31-s",
+      "title": "Sinh Tồn Trên Đảo Hoang Quái Vật Biến Dị | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-26T10:00:14Z",
+      "duration_seconds": 9656,
+      "thumbnail_url": "https://i.ytimg.com/vi/DpNx1LO31-s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "sR9M_iwDzUI",
+      "title": "Dewa Perang Pulang Mencari Istri, Selamatkan CEO Dari Penculik, Dia Serahkan Diri Sebagai Balasan",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-26T10:00:06Z",
+      "duration_seconds": 6025,
+      "thumbnail_url": "https://i.ytimg.com/vi/sR9M_iwDzUI/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "e17SmHrrJ6U",
+      "title": "Phần 1:  Xuyên Không Thành Ngục Chủ, Ta Được Vạn Cổ Cường Giả Truyền Công",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-26T09:56:49Z",
+      "duration_seconds": 32436,
+      "thumbnail_url": "https://i.ytimg.com/vi/e17SmHrrJ6U/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "QaUgaseZBlw",
+      "title": "4,5 GIỜ | Hệ Thống Phản Diện - Đại Năng Vô Địch Dẫn Sư Muội Phá Tan Ma Vực",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T09:19:24Z",
+      "duration_seconds": 15812,
+      "thumbnail_url": "https://i.ytimg.com/vi/QaUgaseZBlw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "rBvV8fNGyeo",
+      "title": "Cô Gái Nhận Nhầm Người Yêu Qua Mạng Rồi Cưới Người Lạ, Nào Ngờ Chồng Là CEO Của Tập Đoàn Nghìn Tỷ",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-26T09:00:08Z",
+      "duration_seconds": 8159,
+      "thumbnail_url": "https://i.ytimg.com/vi/rBvV8fNGyeo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "9pCe3yBX7cw",
+      "title": "Pemuda Miskin Nekat Bawa Kapal Karatan ke Pulau Terlantar! Temukan Sumur Ajaib, Air Ditukar Emas!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-26T08:30:18Z",
+      "duration_seconds": 3307,
+      "thumbnail_url": "https://i.ytimg.com/vi/9pCe3yBX7cw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "k4amdoiUzyI",
+      "title": "PHẦN 1-9 | 36 GIỜ THỎA MÃN | Độc Vương SSS+ Vô Hạn Sát Thương Độc Tố - Phế Vật Thành Top 1 Server",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T08:19:37Z",
+      "duration_seconds": 128437,
+      "thumbnail_url": "https://i.ytimg.com/vi/k4amdoiUzyI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "410zW4kgXpU",
+      "title": "16 GIỜ THỎA MÃN | Tạo Hóa Linh Hồ - Phàm Nhân Vấn Đạo - Phế Vật Cũng Có Thể Tu Thành Đại Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T07:10:19Z",
+      "duration_seconds": 55459,
+      "thumbnail_url": "https://i.ytimg.com/vi/410zW4kgXpU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Jw-J2dI92U0",
+      "title": "Cô Gái Chê Đối Tượng Xem Mắt Là Ông Chú Già, Nào Ngờ Anh Là CEO Đẹp Trai Luôn Âm Thầm Bảo Vệ Cho Cô",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-26T07:00:32Z",
+      "duration_seconds": 9274,
+      "thumbnail_url": "https://i.ytimg.com/vi/Jw-J2dI92U0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "rJO-F06X22k",
+      "title": "3 GIỜ | Miểu Sát Dị Thú - Bách Bội Hoàn Trả - Hạ Gục Tức Thì Chỉ Bằng 1 Chiêu",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T06:30:24Z",
+      "duration_seconds": 10511,
+      "thumbnail_url": "https://i.ytimg.com/vi/rJO-F06X22k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "mtri0Rodjag",
+      "title": "Mạt Thế Đóng Băng Tôi Thức Tỉnh Sức Mạnh Dị Năng Không Gian Cấp S | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-26T05:00:32Z",
+      "duration_seconds": 13434,
+      "thumbnail_url": "https://i.ytimg.com/vi/mtri0Rodjag/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "48d4EGfK2w8",
+      "title": "Tunangan Bawa Selingkuhan dan Anaknya, Rebut Ranjang! Ia Batalkan Nikah, Jadi CEO, Pria Menyesal!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-26T05:00:31Z",
+      "duration_seconds": 3693,
+      "thumbnail_url": "https://i.ytimg.com/vi/48d4EGfK2w8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "spK6Q6RqJpE",
+      "title": "Pengemis Habiskan Uang Beli Lotre, Dihina, Punya Mata Dewa Tembus Pandang Dan Lihat Masa Depan",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-26T05:00:25Z",
+      "duration_seconds": 6192,
+      "thumbnail_url": "https://i.ytimg.com/vi/spK6Q6RqJpE/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "fcgXkaeZwQc",
+      "title": "Nữ Bác Sĩ Đi Xem Mắt Rồi Cưới Nhầm Người Ngay Trong Một Ngày, Nào Ngờ Chồng Là Thiên Tài Ngoại Tim",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-26T05:00:00Z",
+      "duration_seconds": 7135,
+      "thumbnail_url": "https://i.ytimg.com/vi/fcgXkaeZwQc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "tlxVUKDCsw0",
+      "title": "3,5 GIỜ | Sát Thủ Xuyên Làm Thế Tử Võ Tướng - Cả Nhà Tử Trận - Ta Dẫn 6 Góa Phụ Xây Đế Chế",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T04:46:17Z",
+      "duration_seconds": 12732,
+      "thumbnail_url": "https://i.ytimg.com/vi/tlxVUKDCsw0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "rKMxPHGdwbI",
+      "title": "3 GIỜ | Thái Tử Phế Vật Lưu Đày Nào Ngờ Võ Thần Vô Địch - Triệu Hồi Thêm Dàn Thần Tướng Bất Bại",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-26T04:14:30Z",
+      "duration_seconds": 11127,
+      "thumbnail_url": "https://i.ytimg.com/vi/rKMxPHGdwbI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "hFeNK68S9hY",
       "title": "Pengemis Kelaparan Diberi Nasi Bu Pemilik Warung! Dewa Masak, Nasi Goreng Cegah Restoran Bangkrut!",

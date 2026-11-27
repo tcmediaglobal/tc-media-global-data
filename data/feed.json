@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-26T23:19:45Z",
-  "last_full_refresh_at": "2026-11-26T04:05:05Z",
+  "generated_at": "2026-11-27T05:22:33Z",
+  "last_full_refresh_at": "2026-11-27T05:22:33Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -118,6 +118,258 @@
     }
   },
   "videos": [
+    {
+      "id": "VgAUatRRVd0",
+      "title": "Pemuda Miskin Berlayar ke Laut Mati dengan Kapal Karatan, Diejek Desa! Tangkap Ikan Emas, Jadi Kaya!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-27T05:19:24Z",
+      "duration_seconds": 2487,
+      "thumbnail_url": "https://i.ytimg.com/vi/VgAUatRRVd0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "NPQAkibfnzs",
+      "title": "Hoàn Trả Vạn Lần: Đồ Đệ Tu Luyện Ta Thành Tiên! | Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-27T05:00:25Z",
+      "duration_seconds": 9476,
+      "thumbnail_url": "https://i.ytimg.com/vi/NPQAkibfnzs/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "iMqT-f49LjI",
+      "title": "Pengemis Habiskan Uang Beli Pedupaan Tua, Dihina, Ternyata Harta 1000 Tahun Membuatnya Miliarder",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-27T05:00:21Z",
+      "duration_seconds": 2771,
+      "thumbnail_url": "https://i.ytimg.com/vi/iMqT-f49LjI/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "N0Hx1X_9pYg",
+      "title": "Full | Tận Thế Đường Ray: Tôi Nâng Cấp Tàu Hỏa Thành Pháo Đài Bọc Thép Càn Quét Vùng Quỷ Vô Tận",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-27T04:30:11Z",
+      "duration_seconds": 9317,
+      "thumbnail_url": "https://i.ytimg.com/vi/N0Hx1X_9pYg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "twUhDRMaHyo",
+      "title": "Gadis Suci Disergap Preman! Ayah Anak Koki Miskin Ternyata Dewa Pedang Tak Terkalahkan, Hajar Semua!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-27T04:08:08Z",
+      "duration_seconds": 4694,
+      "thumbnail_url": "https://i.ytimg.com/vi/twUhDRMaHyo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "WNA0cbBJ3jU",
+      "title": "Bà Thím 50 Tuổi Nhập Hồn Thành Thiên Kim Hào Môn, Nào Ngờ Bà Vạch Trần Chú Ruột Và Đưa Hắn Vào Tù",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-27T04:00:25Z",
+      "duration_seconds": 4791,
+      "thumbnail_url": "https://i.ytimg.com/vi/WNA0cbBJ3jU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "SS3b4qFdWhU",
+      "title": "Là tổng tài giàu nhất nước nhưng giả tàn tật thử lòng vợ, nào ngờ cô không chê bai còn chăm sóc anh!",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-11-27T04:00:17Z",
+      "duration_seconds": 6848,
+      "thumbnail_url": "https://i.ytimg.com/vi/SS3b4qFdWhU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "bghC86hSx80",
+      "title": "Pria Pulang Pergoki Istri Selingkuh, Ternyata Bos Besar, Diam-Diam Balas Dendam Hingga Istri Melarat",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-27T04:00:09Z",
+      "duration_seconds": 4359,
+      "thumbnail_url": "https://i.ytimg.com/vi/bghC86hSx80/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "QOg0NCKkVBw",
+      "title": "17 GIỜ THỎA MÃN | Đào Mỏ Phế Linh Căn - Dùng Ngộ Tính Siêu Cấp Nghịch Thiên Tu Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-27T03:52:54Z",
+      "duration_seconds": 60365,
+      "thumbnail_url": "https://i.ytimg.com/vi/QOg0NCKkVBw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "dAJvuOSO1fg",
+      "title": "Võ Hồn Cấp D Phế Vật Lật Kèo Cấp S Từ Kẻ Bị Coi Thường Thành Chiến Thần Tiền Tuyến | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-27T03:39:26Z",
+      "duration_seconds": 11394,
+      "thumbnail_url": "https://i.ytimg.com/vi/dAJvuOSO1fg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "mtYZBZCG0Y4",
+      "title": "6 GIỜ | Siêu Hộ Vệ - Chiến Thần Bị Phong Ấn - Hộ Vệ Quèn Nào Ngờ Là Chiến Thần Vô Song Xuyên Không",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-27T03:24:57Z",
+      "duration_seconds": 21923,
+      "thumbnail_url": "https://i.ytimg.com/vi/mtYZBZCG0Y4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "qea0dwnMBfY",
+      "title": "Phần 7-P1: Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-27T03:14:41Z",
+      "duration_seconds": 14274,
+      "thumbnail_url": "https://i.ytimg.com/vi/qea0dwnMBfY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "pc94AYhLKyE",
+      "title": "CEO Wanita Dibius, Pengemis Semalaman Selamatkan Nyawanya, Ternyata Dewa Perang, Dia Minta Dinikahi",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-27T03:00:19Z",
+      "duration_seconds": 6267,
+      "thumbnail_url": "https://i.ytimg.com/vi/pc94AYhLKyE/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "2Q9L_sD8BRM",
+      "title": "Kurir Putus Sekolah Biayai Pacar Jadi CEO! Ibu Sakit Parah, Minta Pinjam Uang Malah Dihina Diusir!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-27T03:00:03Z",
+      "duration_seconds": 2933,
+      "thumbnail_url": "https://i.ytimg.com/vi/2Q9L_sD8BRM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "8GBtjUZcmuQ",
+      "title": "3 GIỜ | Càn Khôn Nghiên - Phế Vật Thức Tỉnh Âm Dương Thần Tàng - Âm Thầm Bước Lên Đại Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-27T02:20:52Z",
+      "duration_seconds": 10987,
+      "thumbnail_url": "https://i.ytimg.com/vi/8GBtjUZcmuQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "lG5uVwI2Jmo",
+      "title": "CEO Giả Nghèo Làm Shipper Lừa Bạn Gái 1 Năm, Nào Ngờ Cô Là Thiên Kim Và Cưới CEO Đã Yêu Cô 15 Năm",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-27T02:00:05Z",
+      "duration_seconds": 5311,
+      "thumbnail_url": "https://i.ytimg.com/vi/lG5uVwI2Jmo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "WEbeSJ_xH1c",
+      "title": "Cứu Lão Ăn Mày Nhận Ngay Giáng Long Thập Bát Chưởng - Hệ Thống Kỳ Duyên Một Bước Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-27T01:20:30Z",
+      "duration_seconds": 11835,
+      "thumbnail_url": "https://i.ytimg.com/vi/WEbeSJ_xH1c/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "3h8ZXkirjFI",
+      "title": "Con Rể Chê Mẹ Vợ Trồng Rau, Nào Ngờ Bà Thu Hồi 17 Bằng Sáng Chế Khiến Anh Phải Bồi Thường 10 Tỷ Đồng",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-27T00:00:08Z",
+      "duration_seconds": 6179,
+      "thumbnail_url": "https://i.ytimg.com/vi/3h8ZXkirjFI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "8020Czljwe4",
       "title": "CEO Tỷ Phú Giả Nghèo 3 Năm Thử Lòng Vợ, Nào Ngờ Khi Mang 99 Xe Cưới Đến Đón, Cô Đã Qua Đời Vì Bệnh",
@@ -833,20 +1085,6 @@
       ]
     },
     {
-      "id": "iJYAkozObhs",
-      "title": "Phần 2(1-450): Truyền Thuyết Tà Đỉnh Vô Sỉ-Bị Coi Là Phế Vật, Ta Dựa Vào Ma Đỉnh Để Nghịch Thiên",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-11-25T11:46:11Z",
-      "duration_seconds": 23027,
-      "thumbnail_url": "https://i.ytimg.com/vi/iJYAkozObhs/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "6Cnd6BWD9DU",
       "title": "Pengemis Baru Buka Mata Dewa, Naga 3 Kepala Remehkan! Sekali Hajar, Urat Tulang Jadi Senjata Dewa!",
       "channel": "drama5",
@@ -1358,20 +1596,6 @@
       "published_at": "2026-11-24T22:10:50Z",
       "duration_seconds": 17847,
       "thumbnail_url": "https://i.ytimg.com/vi/jT3ZZpjiOVg/hqdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "jzETKZvVLSQ",
-      "title": "Phần 6-P3 (676-885): Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-11-24T18:47:24Z",
-      "duration_seconds": 10392,
-      "thumbnail_url": "https://i.ytimg.com/vi/jzETKZvVLSQ/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -3367,20 +3591,6 @@
       ]
     },
     {
-      "id": "oSHx8fm7XLI",
-      "title": "Phần 6-P2: Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-11-21T11:07:43Z",
-      "duration_seconds": 17095,
-      "thumbnail_url": "https://i.ytimg.com/vi/oSHx8fm7XLI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "TspUdUtiLuY",
       "title": "Ibu Mertua Dihina Menantu Seperti Pembantu, Tak Disangka Ia Kembali Sebagai Miliarder Untuk Dendam",
       "channel": "drama6",
@@ -3416,20 +3626,6 @@
       "published_at": "2026-11-21T11:00:05Z",
       "duration_seconds": 8479,
       "thumbnail_url": "https://i.ytimg.com/vi/Fv_O1jYRn9k/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "vSYigNBiiOE",
-      "title": "Phần 6-p1: Mang Linh Căn Tầm Thường, Thiếu Niên Khổ Tu Tiên Đạo, Nghịch Thiên Cải Mệnh",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-11-21T10:34:16Z",
-      "duration_seconds": 17657,
-      "thumbnail_url": "https://i.ytimg.com/vi/vSYigNBiiOE/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -3962,20 +4158,6 @@
       "published_at": "2026-11-20T12:00:14Z",
       "duration_seconds": 12936,
       "thumbnail_url": "https://i.ytimg.com/vi/YQVmMBIBgcY/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "To3_uFzZP6w",
-      "title": "Phần 30: Không Có Chút Tu Vi, Ta Tưởng Mình Là Phế Vật Cho Đến Khi Lão Tổ Gọi Ta Tiền Bối",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-11-20T11:56:22Z",
-      "duration_seconds": 9041,
-      "thumbnail_url": "https://i.ytimg.com/vi/To3_uFzZP6w/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -5537,20 +5719,6 @@
       ]
     },
     {
-      "id": "_1jysajPdqc",
-      "title": "Phần 7: Lão Ăn Mày Tự Chôn Trong Chum, Thức Tỉnh Kỳ Năng Nghịch Thiên Tu Tiên",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-11-18T03:30:16Z",
-      "duration_seconds": 9075,
-      "thumbnail_url": "https://i.ytimg.com/vi/_1jysajPdqc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "D37_3YA8lSU",
       "title": "Hạ Bút Thành Pháp: Xuyên Không Đến Thế Giới Nho Đạo, Đọc Sách Cũng Có Thể Tu Hành (FULL MÙA 1)",
       "channel": "movies7",
@@ -5642,20 +5810,6 @@
       "published_at": "2026-11-18T00:11:03Z",
       "duration_seconds": 24489,
       "thumbnail_url": "https://i.ytimg.com/vi/tiDhgGaaQ9g/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "30YV9ve6MKk",
-      "title": "Phần 28: Không Có Chút Tu Vi, Ta Tưởng Mình Là Phế Vật Cho Đến Khi Lão Tổ Gọi Ta Tiền Bối",
-      "channel": "movies3",
-      "channel_title": "Não Phẳng Tu Tiên",
-      "published_at": "2026-11-17T23:56:19Z",
-      "duration_seconds": 9715,
-      "thumbnail_url": "https://i.ytimg.com/vi/30YV9ve6MKk/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -45397,20 +45551,6 @@
       ]
     },
     {
-      "id": "Ff3IbMkdzX4",
-      "title": "Adik Jebak Kakak Nikahi CEO yang Konon Celakai Istri, Malah Dimanja dan Dibantu Balas Dendam!",
-      "channel": "drama5",
-      "channel_title": "Gado-Gado Clips",
-      "published_at": "2026-08-28T09:30:19Z",
-      "duration_seconds": 3660,
-      "thumbnail_url": "https://i.ytimg.com/vi/Ff3IbMkdzX4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "Bo6E8m5M4x4",
       "title": "Thiên Phú Phế Vật, Ta Nạp 150 Tỷ Nâng Max Chỉ Số Trở Thành Kẻ Bất Bại Trên Chiến Trường",
       "channel": "movies",
@@ -49683,20 +49823,6 @@
       "duration_seconds": 6016,
       "thumbnail_url": "https://i.ytimg.com/vi/61LtJwzbcrs/maxresdefault.jpg",
       "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "dUucFtHMtME",
-      "title": "Gadis Miskin Pemulung Selamatkan CEO, Tak Disangka Dibawa Pulang Dan Dinikahi Sang Bos",
-      "channel": "drama6",
-      "channel_title": "Sambal Clips",
-      "published_at": "2026-08-15T04:00:15Z",
-      "duration_seconds": 6002,
-      "thumbnail_url": "https://i.ytimg.com/vi/dUucFtHMtME/maxresdefault.jpg",
-      "embeddable": false,
       "kind": "regular",
       "categories": [
         "drama"
@@ -55329,20 +55455,6 @@
       ]
     },
     {
-      "id": "kJFBzfIMo_Q",
-      "title": "Dewi Perang Wanita Pulang Kampung, Adiknya Dihina Dan Dianiaya Preman, Lalu Menghabisi Mereka Semua",
-      "channel": "drama6",
-      "channel_title": "Sambal Clips",
-      "published_at": "2026-07-23T11:00:28Z",
-      "duration_seconds": 7591,
-      "thumbnail_url": "https://i.ytimg.com/vi/kJFBzfIMo_Q/maxresdefault.jpg",
-      "embeddable": false,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "mSj8PQO9MI4",
       "title": "Đại Lão Tu Tiên 5 Tuổi Giả Làm Nông Dân Đại Náo Tu Tiên Giới (1-43)",
       "channel": "movies7",
@@ -55449,20 +55561,6 @@
       "duration_seconds": 8397,
       "thumbnail_url": "https://i.ytimg.com/vi/YqHdO5ivaJ4/maxresdefault.jpg",
       "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "Zv8W7eWSZaM",
-      "title": "Dewa Perang Sedang Istirahat, Preman Mendobrak Rumah Dan Mengancam, Ia Langsung Menghabisi Semuanya",
-      "channel": "drama6",
-      "channel_title": "Sambal Clips",
-      "published_at": "2026-07-23T04:00:03Z",
-      "duration_seconds": 5421,
-      "thumbnail_url": "https://i.ytimg.com/vi/Zv8W7eWSZaM/maxresdefault.jpg",
-      "embeddable": false,
       "kind": "regular",
       "categories": [
         "drama"
@@ -56429,20 +56527,6 @@
       "duration_seconds": 4922,
       "thumbnail_url": "https://i.ytimg.com/vi/HSf1uvrfRMQ/maxresdefault.jpg",
       "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "CiuFWi5BPF0",
-      "title": "Dewa Perang Berlatih Di Gunung 10 Tahun, Turun Gunung Cari Tunangan, Malah Dihina Dan Diputuskan",
-      "channel": "drama6",
-      "channel_title": "Sambal Clips",
-      "published_at": "2026-07-17T10:00:01Z",
-      "duration_seconds": 7855,
-      "thumbnail_url": "https://i.ytimg.com/vi/CiuFWi5BPF0/maxresdefault.jpg",
-      "embeddable": false,
       "kind": "regular",
       "categories": [
         "drama"
